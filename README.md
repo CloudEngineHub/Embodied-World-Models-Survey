@@ -11,7 +11,8 @@
 
 
 ## Table of Content <!-- omit in toc -->
-  
+- [Introduction](#introduction)
+- [Levels of Intelligent Robot](#levels-of-intelligent-robot)
 - [Robotic Mobility, Dexterity and Interaction](#robotic-mobility-dexterity-and-interaction)
   - [Related Robotic Techniques](#related-robotic-techniques)
   - [Robotic Locomotion](#robotic-locomotion)
@@ -21,6 +22,9 @@
   - [World Models for Autonomous Driving](#world-models-for-autonomous-driving)
   - [World Models for Articulated Robots](#world-models-for-articulated-robots)
 
+## 1. Introduction
+
+## 2. Levels of Intelligent Robot
 
 ## 3. Robotic Mobility, Dexterity and Interaction
 
@@ -48,11 +52,11 @@
 
 ### Robotic Locomotion
 
-## Simulators
+## 4. Simulators
 
-## World Models
+## 5. World Models
 
-## World Models for Intelligent Robots
+## 6. World Models for Intelligent Robots
 
 ### World Models for Autonomous Driving
 
