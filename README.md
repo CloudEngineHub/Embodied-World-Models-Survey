@@ -22,7 +22,7 @@
   - [World Models for Articulated Robots](#world-models-for-articulated-robots)
 
 
-## Robotic Mobility, Dexterity and Interaction
+## 3. Robotic Mobility, Dexterity and Interaction
 
 ### Related Robotic SimulatorsSimulators
 <details>
