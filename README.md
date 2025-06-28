@@ -11,15 +11,14 @@
 
 
 ## Table of Content <!-- omit in toc -->
-- [1. Introduction](#1-introduction)
-- [2. Levels of Intelligent Robot](#2-levels-of-intelligent-robot)
-- [3. Robotic Mobility, Dexterity and Interaction](#3-robotic-mobility-dexterity-and-interaction)
+- [Introduction](#introduction)
+- [Levels of Intelligent Robot](#levels-of-intelligent-robot)
+- [Robotic Mobility, Dexterity and Interaction](#robotic-mobility-dexterity-and-interaction)
   - [Related Robotic Techniques](#related-robotic-techniques)
   - [Robotic Locomotion](#robotic-locomotion)
-  - [Human-Robot Interaction](#human-robot-interaction)
-- [4. Simulators](#4-simulators)
-- [5. World Models](#5-world-models)
-- [6. World Models for Intelligent Robots](#6-world-models-for-intelligent-robots)
+- [Simulators](#simulators)
+- [World Models](#world-models)
+- [World Models for Intelligent Robots](#world-models-for-intelligent-robots)
   - [World Models for Autonomous Driving](#world-models-for-autonomous-driving)
   - [World Models for Articulated Robots](#world-models-for-articulated-robots)
 
@@ -35,12 +34,16 @@ This repository aims to collect and organize research and resources related to l
 </p>
 
 ## 2. Levels of Intelligent Robot
+To address the absence of a comprehensive grading system that integrates the dimensions of "intelligent cognition" and "autonomous behavior," we outline a capability grading model for intelligent robots, ranging from IR-L0 to IR-L4. This model covers the entire technological evolution, from basic mechanical operation levels to advanced social interaction capabilities.
 
+<p align="center">
+<img src="assets/2_Levels_Pic.png" width="100%" height="auto"/>
+</p>
 
 
 ## 3. Robotic Mobility, Dexterity and Interaction
 
-### Related Robotic Techniques
+### Related Robotic SimulatorsSimulators
 <details>
 <summary> Model Predictive Control, MPCs </summary>
 </details>
@@ -64,132 +67,9 @@ This repository aims to collect and organize research and resources related to l
 
 ### Robotic Locomotion
 
-### Human-Robot Interaction
-<details>
-<summary>Related Survey</summary>
-
-| Paper | Date | Venue |
-|:------|:-----|:------|
-| [Humanlike service robots: A systematic literature review and research agenda](https://doi.org/10.1002/mar.22099) | 2024-08 |  Psychology & Marketing |
-|[Human–robot collaboration and machine learning: A systematic review of recent research](https://doi.org/10.1016/j.rcim.2022.102432)| 2023-02 | Robotics and Computer-Integrated Manufacturing |
-| [Emotion Recognition for Human-Robot Interaction: Recent Advances and Future Perspectives](https://doi.org/10.3389/frobt.2020.532279) | 2020-12 | Frontiers in Robotics and AI |
-|[Application, Development and Future Opportunities of Collaborative Robots (Cobots) in Manufacturing: A Literature Review](https://doi.org/10.1080/10447318.2022.2041907)| 2022-04 |  International Journal of Human–Computer Interaction |
-
-</details>
-
-<details>
-<summary>Cognitive Collaboration</summary>
-
-| Paper | Date | Venue | Code | Task |
-|:------|:-----|:------|:-----|:-----|
-| [LLaVA-SLT: Visual Language Tuning for Sign Language Translation](https://arxiv.org/abs/2412.16524) | 2024-12 | arXiv | -- | Sign Language |
-| [Artificial cognition for social human–robot interaction: An implementation](https://doi.org/10.1016/j.artint.2016.07.002) | 2017-06 | Artificial Intelligence | -- | Robot Cognitive Skills |
-| [Cognitive Interaction Analysis in Human–Robot Collaboration Using an Assembly Task](https://doi.org/10.3390/electronics10111317) | 2021-05 | Electronics | -- | Assembly Collabotation |
-|[Enhancing Robotic Collaborative Tasks Through Contextual Human Motion Prediction and Intention Inference](https://link.springer.com/article/10.1007/s12369-024-01140-2)| 2024-07 |  International Journal of Social Robotics  | -- | Human-Robot Handover |
-|[L3MVN: Leveraging Large Language Models for Visual Target Navigation](https://arxiv.org/abs/2304.05501)| 2023-10 | IROS 2023 | [Github](https://github.com/ybgdgh/L3MVN) | Object Goal Navigation |
-|[SG-Nav: Online 3D Scene Graph Prompting for LLM-based Zero-shot Object Navigation](https://arxiv.org/abs/2410.08189)| 2024-10 | NeurIPS 2024 | [Github](https://github.com/bagh2178/SG-Nav) | Object Goal Navigation |
-|[TriHelper: Zero-Shot Object Navigation with Dynamic Assistance](https://arxiv.org/abs/2403.15223)| 2024-03 | IROS 2024 | -- | Object Goal Navigation |
-|[CogNav: Cognitive Process Modeling for Object Goal Navigation with LLMs](https://openreview.net/forum?id=fRl85QEpgQ)| 2024-10 | NeurIPS 2024 OWA Workshop| -- | Object Goal Navigation |
-| [UniGoal: Towards Universal Zero-shot Goal-oriented Navigation](https://arxiv.org/abs/2503.10630) | 2025-03 | CVPR 2025 | [Github](https://github.com/bagh2178/UniGoal) | Goal-oriented Navigation  |
-
-</details>
-
-<details>
-<summary>Physical Reliability</summary>
-
-| Paper | Date | Venue | Code | Remarks |
-|:------|:-----|:------|:-----|:-----|
-|[A Comparative Study of Probabilistic Roadmap Planners](https://link.springer.com/chapter/10.1007/978-3-540-45058-0_4)| 2004 | Algorithmic foundations of robotics V | -- | Probabilistic Roadmap Planning (PRM) |
-|[Rapidly-exploring random trees: A new tool for Path Planning](https://msl.cs.illinois.edu/~lavalle/papers/Lav98c.pdf)| 1998 | Research Report | -- | Rapidly-exploring Random Trees (RRT) |
-|[Sampling-based Algorithms for Optimal Motion Planning](https://arxiv.org/abs/1105.1186)|2011-05|International Journal of Robotics Research| -- |PRM* and RRT*|
-| [Path planning for manipulators based on an improved probabilistic roadmap method](https://doi.org/10.1016/j.rcim.2021.102196) | 2021-12 | Robotics and Computer-Integrated Manufacturing | -- | Path Planning for Manipulators |
-|[RRT-connect: An efficient approach to single-query path planning](https://doi.org/10.1109/ROBOT.2000.844730)|2000-04|ICRA 2000| -- | Incrementally build two RRTs from the start and goal. |
-|[Homotopy-Aware RRT*: Toward Human-Robot Topological Path-Planning](https://dl.acm.org/doi/10.5555/2906831.2906880)|2016-03|11th ACM/IEEE International Conference on Human-Robot Interaction|--|Human-robot Interactive Path-planning|
-|[Human-in-the-loop Robotic Manipulation Planning for Collaborative Assembly](https://arxiv.org/abs/1909.11280)|2019-09|IEEE Transactions on Automation Science and Engineering| -- |Human-robot Interactive Path-planning|
-|[CHOMP: Gradient optimization techniques for efficient motion planning](https://doi.org/10.1109/ROBOT.2009.5152817)|2009-05|ICRA 2009|[MoveIt!](https://github.com/moveit/moveit_tutorials/blob/master/doc/chomp_planner/chomp_planner_tutorial.rst)|Gradient-based Trajectory Optimization|
-|[STOMP: Stochastic trajectory optimization for motion planning](https://doi.org/10.1109/ICRA.2011.5980280)|2011-05|ICRA 2011|[MoveIt!](https://moveit.github.io/moveit_tutorials/doc/stomp_planner/stomp_planner_tutorial.html)|Probabilistic Trajectory Optimization|
-|[ITOMP: Incremental trajectory optimization for real-time replanning in dynamic environments](https://doi.org/10.1609/icaps.v22i1.13513)|2012-05|Proceedings of the International Conference on Automated Planning and Scheduling|[Github](https://github.com/Chpark/itomp)|Trajectory Optimization in Dynamic Environment|
-|[Motion planning with sequential convex optimization and convex collision checking](https://rll.berkeley.edu/~sachin/papers/Schulman-IJRR2014.pdf)|2014|IJRR 2014| -- |Trajectory Optimization using SCO|
-|[Considering avoidance and consistency in motion planning for human-robot manipulation in a shared workspace](https://doi.org/10.1109/ICRA.2016.7487584)|2016-05|ICRA 2016| -- |Human-robot Interactive Path-planning|
-|[Considering Human Behavior in Motion Planning for Smooth Human-Robot Collaboration in Close Proximity](https://doi.org/10.1109/ROMAN.2018.8525607)|2018-08|27th IEEE International Symposium on Robot and Human Interactive Communication| -- |Human-robot Interactive Path-planning|
-|[Continuous-time Gaussian process motion planning via probabilistic inference](https://arxiv.org/abs/1707.07383)|2017-07|IJRR 2018| -- | Gaussian Process Motion Planner (GPMP) |
-|[Simultaneous Scene Reconstruction and Whole-Body Motion Planning for Safe Operation in Dynamic Environments](https://arxiv.org/abs/2103.03958)|2021-03|IROS 2021| -- |GPMP for Whole-body Motion Planning in Dynamic Scene|
-
-</details>
-
-<details>
-<summary>Social Embeddedness</summary>
-</details>
-
 ## 4. Simulators
 
-<details>
-<summary> </summary>
-
-| Paper | Date | Venue | Code | Application |
-|:------|:-----|:------|:-----|:------------|
-| [**Webots**: Professional Mobile Robot Simulation](http://www.ars-journal.com/International-Journal-of-Advanced-Robotic-Systems/Volume-1/39-42.pdf) | 2004 | JARS | – | Simulator Platform |
-| [Design and use paradigms for **Gazebo**](https://doi.org/10.1109/IROS.2004.1389727) | 2004 | IROS | – | Simulator Platform |
-| [**MuJoCo**: A physics engine for model-based control](https://ieeexplore.ieee.org/document/6386109) | 2012 | IROS | – | Simulator Platform |
-| [**PyBullet**: Python module for physics simulation](http://pybullet.org) | 2016 | GitHub | [GitHub](http://pybullet.org) | Simulator Platform |
-| [**CoppeliaSim** (formerly V-REP)](https://www.coppeliarobotics.com) | 2013 | IROS | – | Simulator Platform |
-| [**Isaac Gym**: GPU-based physics simulation for robot learning](https://arxiv.org/abs/2108.10470) | 2021 | arXiv | – | Simulator Platform |
-| [**Isaac Sim**](https://developer.nvidia.com/isaac/sim) | 2025 | NVIDIA Developer | – | Simulator Platform |
-| [**Isaac Lab** Documentation](https://isaac-sim.github.io/IsaacLab/main/index.html) | 2025 | NVIDIA Developer | – | Simulator Platform |
-| [**SAPIEN**: A simulated part-based interactive environment](https://openaccess.thecvf.com/content_CVPR_2020/html/Xiang_SAPIEN_A_Simulated_Part-Based_Interactive_Environment_CVPR_2020_paper.html) | 2020 | CVPR | – | Simulator Platform |
-| [**Genesis**: A Universal and Generative Physics Engine](https://github.com/Genesis-Embodied-AI/Genesis) | 2024 | GitHub | [GitHub](https://github.com/Genesis-Embodied-AI/Genesis) | Simulator Platform |
-| [Newton Isaac Sim Project](https://github.com/TheNewtonCapstone/newton-isaac-sim) | 2024 | GitHub | [GitHub](https://github.com/TheNewtonCapstone/newton-isaac-sim) | Simulator Platform |
-| [Newton Physics Engine Announcement](https://developer.nvidia.com/blog/announcing-newton-an-open-source-physics-engine-for-robotics-simulation/) | 2025 | NVIDIA Blog | – | Physics Engine |
-| [ManiSkill3](https://arxiv.org/abs/2410.00425) | 2024 | arXiv | – | Manipulation Benchmark |
-| [ManiSkill2](https://openreview.net/forum?id=K5z_LXnL3p4) | 2023 | ICLR | – | Manipulation Benchmark |
-| [MuJoCo Programming Guide](https://mujoco.readthedocs.io/en/stable/programming/index.html) | 2025 | Docs | – | Developer Guide |
-| [Offline Robotic World Model](https://arxiv.org/abs/2504.16680) | 2025 | arXiv | – | World Model Learning |
-| [Mobile Aloha](https://arxiv.org/abs/2401.02117) | 2024 | arXiv | – | Teleoperation |
-| [Open-Television](https://arxiv.org/abs/2407.01512) | 2024 | arXiv | – | Teleoperation |
-| [Universal Manipulation Interface](https://arxiv.org/abs/2402.10329) | 2024 | arXiv | – | Imitation Learning |
-| [Review of Physics Simulators](https://ieeexplore.ieee.org/document/9391431) | 2021 | ISAP | – | Simulator Survey |
-| [Analysis using DEM](https://ieeexplore.ieee.org/document/9172795) | 2020 | IEEE Aerospace | – | Granular Simulation |
-| [LuisaRender](https://dl.acm.org/doi/10.1145/3550454.3555471) | 2022 | TOG | – | Rendering Framework |
-| [Pyrender](https://github.com/mmatl/pyrender) | 2019 | GitHub | [GitHub](https://github.com/mmatl/pyrender) | Rendering |
-| [HydraRendererInfo](https://github.com/Ray-Tracing-Systems/HydraRendererInfo) | 2019 | GitHub | [GitHub](https://github.com/Ray-Tracing-Systems/HydraRendererInfo) | Rendering |
-| [LS Group Interact Kinematics](https://documentation.ls-group.fr/interact/kinematics/) | 2025 | Docs | – | Kinematics Documentation |
-| [The Alliance for OpenUSD](https://aousd.org/) | 2023 | AOUSD | – | Open Universal Scene Description (USD) Standard |
-| [NVIDIA Omniverse](https://www.nvidia.com/en-us/omniverse/) | 2025 | NVIDIA Developer | – | 3D Simulation & Collaboration Platform |
-| [NVIDIA PhysX System Software](https://www.nvidia.cn/drivers/physx/physx-9-21-0713-driver/) | 2021 | NVIDIA Developer | – | Real-Time Physics Engine |
-| [OpenGL: The Industry Standard for High‑Performance Graphics](https://www.opengl.org/) | 1992 | Khronos Group | – | Cross-Platform Graphics API |
-| [Vulkan: Cross‑Platform 3D Graphics and Compute API](https://www.vulkan.org/) | 2016 | Khronos Group | – | Low-Level Graphics and Compute API |
-| [NVIDIA OptiX™ Ray Tracing Engine](https://developer.nvidia.com/rtx/ray-tracing/optix) | 2024 | NVIDIA Developer | – | GPU-Accelerated Ray Tracing Framework |
-
-</details>
-
 ## 5. World Models
-<details>
-<summary>Representative Architectures of World Models</summary>
-
-| Paper | Date | Venue | Code | Architecture |
-|:------|:-----|:------|:-----|:------------|
-| [World Models](https://arxiv.org/abs/1803.10122) | 2018-03 | NeurIPS 2018 | - | RSSM |
-| [Learning Latent Dynamics for Planning from Pixels](https://arxiv.org/abs/1811.04551) | 2018-11 | ICML 2019 | [Github](https://github.com/google-research/planet) | RSSM |
-| [Dream to Control: Learning Behaviors by Latent Imagination (Dreamer)](https://arxiv.org/abs/1912.01603) | 2019-12 | ICLR 2020 | [Github](https://github.com/danijar/dreamer) | RSSM |
-| [Mastering Atari with Discrete World Models (Dreamer v2)](https://arxiv.org/abs/2010.02193) | 2020-10 | ICLR 2021 | [Github](https://github.com/danijar/dreamerv2) | RSSM |
-| [DayDreamer: World Models for Physical Robot Learning](https://arxiv.org/abs/2206.14176) | 2022-06 | CoRL 2022 | [Github](https://github.com/danijar/daydreamer) | RSSM |
-| [Mastering Diverse Domains through World Models (Dreamer v3)](https://arxiv.org/abs/2301.04104v2) | 2023-01 | Nature | [Github](https://github.com/danijar/dreamerv3) | RSSM |
-| [A Path Towards Autonomous Machine Intelligence](https://openreview.net/pdf?id=BZ5a1r-kVsf) | 2022-06 | OpenReview | - | JEPA |
-| [Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture (I-JEPA)](https://arxiv.org/abs/2301.08243) | 2023-01 | CVPR 2023 | [Github](https://github.com/facebookresearch/ijepa) | JEPA |
-| [Revisiting Feature Prediction for Learning Visual Representations from Video (V-JEPA)](https://arxiv.org/abs/2404.08471) | 2024-04 | Arxiv | [Github](https://github.com/facebookresearch/jepa) | JEPA |
-| [V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning](https://arxiv.org/abs/2506.09985) | 2025-06 | Arxiv | [Github](https://github.com/facebookresearch/vjepa2) | JEPA |
-| [TransDreamer: Reinforcement Learning with Transformer World Models](https://arxiv.org/abs/2202.09481) | 2022-02 | NeurIPS 2021 Workshop | [Github](https://github.com/changchencc/TransDreamer) | TSSM |
-| [Transformer-based World Models Are Happy With 100k Interactions](https://arxiv.org/abs/2303.07109) | 2023-03 | ICLR 2023 | [Github](https://github.com/jrobine/twm) | TSSM |
-| [Genie: Generative Interactive Environments](https://arxiv.org/abs/2402.15391) | 2024-02 | Arxiv | - | TSSM |
-| [GAIA-1: A Generative World Model for Autonomous Driving](https://arxiv.org/abs/2309.17080) | 2023-09 | ArXiv Wayve | - | Autoregressive Transformer |
-| [OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving](https://arxiv.org/abs/2311.16038) | 2023-11 | ECCV 2024 | [Github](https://github.com/wzzheng/OccWorld) | Autoregressive Transformer |
-| [Video generation models as world simulators (Sora)](https://openai.com/index/video-generation-models-as-world-simulators/) | 2024-02 | OpenAI | - | Diffusion |
-| [Vista: A Generalizable Driving World Model with High Fidelity and Versatile Controllability](https://arxiv.org/abs/2405.17398) | 2024-05 | NeurIPS 2024 | [Github](https://github.com/OpenDriveLab/Vista) | Diffusion |
-| [GAIA-2: A Controllable Multi-View Generative World Model for Autonomous Driving](https://arxiv.org/abs/2503.20523) | 2025-03 | Arxiv Wayve | - | Diffusion |
-| [Vid2World: Crafting Video Diffusion Models to Interactive World Models](https://arxiv.org/abs/2505.14357) | 2025-05 | Arxiv | - | AR+Diffusion |
-| [Epona: Autoregressive Diffusion World Model for Autonomous Driving]() | 2025-06 | ICCV 2025 | [Github](https://github.com/Kevin-thu/Epona) | AR+Diffusion |
-
-</details>
 
 ## 6. World Models for Intelligent Robots
 
