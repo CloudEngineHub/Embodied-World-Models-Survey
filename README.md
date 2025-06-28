@@ -93,6 +93,45 @@
 
 ## 4. Simulators
 
+<details>
+<summary> </summary>
+
+| Paper | Date | Venue | Code | Application |
+|:------|:-----|:------|:-----|:------------|
+| [**Webots**: Professional Mobile Robot Simulation](http://www.ars-journal.com/International-Journal-of-Advanced-Robotic-Systems/Volume-1/39-42.pdf) | 2004 | JARS | – | Simulator Platform |
+| [Design and use paradigms for **Gazebo**](https://doi.org/10.1109/IROS.2004.1389727) | 2004 | IROS | – | Simulator Platform |
+| [**MuJoCo**: A physics engine for model-based control](https://ieeexplore.ieee.org/document/6386109) | 2012 | IROS | – | Simulator Platform |
+| [**PyBullet**: Python module for physics simulation](http://pybullet.org) | 2016 | GitHub | [GitHub](http://pybullet.org) | Simulator Platform |
+| [**CoppeliaSim** (formerly V-REP)](https://www.coppeliarobotics.com) | 2013 | IROS | – | Simulator Platform |
+| [**Isaac Gym**: GPU-based physics simulation for robot learning](https://arxiv.org/abs/2108.10470) | 2021 | arXiv | – | Simulator Platform |
+| [**Isaac Sim**](https://developer.nvidia.com/isaac/sim) | 2025 | NVIDIA Developer | – | Simulator Platform |
+| [**Isaac Lab** Documentation](https://isaac-sim.github.io/IsaacLab/main/index.html) | 2025 | NVIDIA Developer | – | Simulator Platform |
+| [**SAPIEN**: A simulated part-based interactive environment](https://openaccess.thecvf.com/content_CVPR_2020/html/Xiang_SAPIEN_A_Simulated_Part-Based_Interactive_Environment_CVPR_2020_paper.html) | 2020 | CVPR | – | Simulator Platform |
+| [**Genesis**: A Universal and Generative Physics Engine](https://github.com/Genesis-Embodied-AI/Genesis) | 2024 | GitHub | [GitHub](https://github.com/Genesis-Embodied-AI/Genesis) | Simulator Platform |
+| [Newton Isaac Sim Project](https://github.com/TheNewtonCapstone/newton-isaac-sim) | 2024 | GitHub | [GitHub](https://github.com/TheNewtonCapstone/newton-isaac-sim) | Simulator Platform |
+| [Newton Physics Engine Announcement](https://developer.nvidia.com/blog/announcing-newton-an-open-source-physics-engine-for-robotics-simulation/) | 2025 | NVIDIA Blog | – | Physics Engine |
+| [ManiSkill3](https://arxiv.org/abs/2410.00425) | 2024 | arXiv | – | Manipulation Benchmark |
+| [ManiSkill2](https://openreview.net/forum?id=K5z_LXnL3p4) | 2023 | ICLR | – | Manipulation Benchmark |
+| [MuJoCo Programming Guide](https://mujoco.readthedocs.io/en/stable/programming/index.html) | 2025 | Docs | – | Developer Guide |
+| [Offline Robotic World Model](https://arxiv.org/abs/2504.16680) | 2025 | arXiv | – | World Model Learning |
+| [Mobile Aloha](https://arxiv.org/abs/2401.02117) | 2024 | arXiv | – | Teleoperation |
+| [Open-Television](https://arxiv.org/abs/2407.01512) | 2024 | arXiv | – | Teleoperation |
+| [Universal Manipulation Interface](https://arxiv.org/abs/2402.10329) | 2024 | arXiv | – | Imitation Learning |
+| [Review of Physics Simulators](https://ieeexplore.ieee.org/document/9391431) | 2021 | ISAP | – | Simulator Survey |
+| [Analysis using DEM](https://ieeexplore.ieee.org/document/9172795) | 2020 | IEEE Aerospace | – | Granular Simulation |
+| [LuisaRender](https://dl.acm.org/doi/10.1145/3550454.3555471) | 2022 | TOG | – | Rendering Framework |
+| [Pyrender](https://github.com/mmatl/pyrender) | 2019 | GitHub | [GitHub](https://github.com/mmatl/pyrender) | Rendering |
+| [HydraRendererInfo](https://github.com/Ray-Tracing-Systems/HydraRendererInfo) | 2019 | GitHub | [GitHub](https://github.com/Ray-Tracing-Systems/HydraRendererInfo) | Rendering |
+| [LS Group Interact Kinematics](https://documentation.ls-group.fr/interact/kinematics/) | 2025 | Docs | – | Kinematics Documentation |
+| [The Alliance for OpenUSD](https://aousd.org/) | 2023 | AOUSD | – | Open Universal Scene Description (USD) Standard |
+| [NVIDIA Omniverse](https://www.nvidia.com/en-us/omniverse/) | 2025 | NVIDIA Developer | – | 3D Simulation & Collaboration Platform |
+| [NVIDIA PhysX System Software](https://www.nvidia.cn/drivers/physx/physx-9-21-0713-driver/) | 2021 | NVIDIA Developer | – | Real-Time Physics Engine |
+| [OpenGL: The Industry Standard for High‑Performance Graphics](https://www.opengl.org/) | 1992 | Khronos Group | – | Cross-Platform Graphics API |
+| [Vulkan: Cross‑Platform 3D Graphics and Compute API](https://www.vulkan.org/) | 2016 | Khronos Group | – | Low-Level Graphics and Compute API |
+| [NVIDIA OptiX™ Ray Tracing Engine](https://developer.nvidia.com/rtx/ray-tracing/optix) | 2024 | NVIDIA Developer | – | GPU-Accelerated Ray Tracing Framework |
+
+</details>
+
 ## 5. World Models
 
 ## 6. World Models for Intelligent Robots
