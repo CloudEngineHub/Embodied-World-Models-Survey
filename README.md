@@ -11,14 +11,14 @@
 
 
 ## Table of Content <!-- omit in toc -->
-- [Introduction](#introduction)
-- [Levels of Intelligent Robot](#levels-of-intelligent-robot)
-- [Robotic Mobility, Dexterity and Interaction](#robotic-mobility-dexterity-and-interaction)
-  - [Related Robotic Techniques](#related-robotic-techniques)
+- [1. Introduction](#1-introduction)
+- [2. Levels of Intelligent Robot](#2-levels-of-intelligent-robot)
+- [3. Robotic Mobility, Dexterity and Interaction](#3-robotic-mobility-dexterity-and-interaction)
+  - [Related Robotic SimulatorsSimulators](#related-robotic-simulatorssimulators)
   - [Robotic Locomotion](#robotic-locomotion)
-- [Simulators](#simulators)
-- [World Models](#world-models)
-- [World Models for Intelligent Robots](#world-models-for-intelligent-robots)
+- [4. Simulators](#4-simulators)
+- [5. World Models](#5-world-models)
+- [6. World Models for Intelligent Robots](#6-world-models-for-intelligent-robots)
   - [World Models for Autonomous Driving](#world-models-for-autonomous-driving)
   - [World Models for Articulated Robots](#world-models-for-articulated-robots)
 
@@ -55,6 +55,33 @@
 ## 4. Simulators
 
 ## 5. World Models
+<details>
+<summary>Representative Architectures of World Models</summary>
+
+| Paper | Date | Venue | Code | Architecture |
+|:------|:-----|:------|:-----|:------------|
+| [World Models](https://arxiv.org/abs/1803.10122) | 2018-03 | NeurIPS 2018 | - | RSSM |
+| [Learning Latent Dynamics for Planning from Pixels](https://arxiv.org/abs/1811.04551) | 2018-11 | ICML 2019 | [Github](https://github.com/google-research/planet) | RSSM |
+| [Dream to Control: Learning Behaviors by Latent Imagination (Dreamer)](https://arxiv.org/abs/1912.01603) | 2019-12 | ICLR 2020 | [Github](https://github.com/danijar/dreamer) | RSSM |
+| [Mastering Atari with Discrete World Models (Dreamer v2)](https://arxiv.org/abs/2010.02193) | 2020-10 | ICLR 2021 | [Github](https://github.com/danijar/dreamerv2) | RSSM |
+| [DayDreamer: World Models for Physical Robot Learning](https://arxiv.org/abs/2206.14176) | 2022-06 | CoRL 2022 | [Github](https://github.com/danijar/daydreamer) | RSSM |
+| [Mastering Diverse Domains through World Models (Dreamer v3)](https://arxiv.org/abs/2301.04104v2) | 2023-01 | Nature | [Github](https://github.com/danijar/dreamerv3) | RSSM |
+| [A Path Towards Autonomous Machine Intelligence](https://openreview.net/pdf?id=BZ5a1r-kVsf) | 2022-06 | OpenReview | - | JEPA |
+| [Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture (I-JEPA)](https://arxiv.org/abs/2301.08243) | 2023-01 | CVPR 2023 | [Github](https://github.com/facebookresearch/ijepa) | JEPA |
+| [Revisiting Feature Prediction for Learning Visual Representations from Video (V-JEPA)](https://arxiv.org/abs/2404.08471) | 2024-04 | Arxiv | [Github](https://github.com/facebookresearch/jepa) | JEPA |
+| [V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning](https://arxiv.org/abs/2506.09985) | 2025-06 | Arxiv | [Github](https://github.com/facebookresearch/vjepa2) | JEPA |
+| [TransDreamer: Reinforcement Learning with Transformer World Models](https://arxiv.org/abs/2202.09481) | 2022-02 | NeurIPS 2021 Workshop | [Github](https://github.com/changchencc/TransDreamer) | TSSM |
+| [Transformer-based World Models Are Happy With 100k Interactions](https://arxiv.org/abs/2303.07109) | 2023-03 | ICLR 2023 | [Github](https://github.com/jrobine/twm) | TSSM |
+| [Genie: Generative Interactive Environments](https://arxiv.org/abs/2402.15391) | 2024-02 | Arxiv | - | TSSM |
+| [GAIA-1: A Generative World Model for Autonomous Driving](https://arxiv.org/abs/2309.17080) | 2023-09 | arXiv Wayve | - | Autoregressive Transformer |
+| [OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving](https://arxiv.org/abs/2311.16038) | 2023-11 | ECCV 2024 | [Github](https://github.com/wzzheng/OccWorld) | Autoregressive Transformer |
+| [Video generation models as world simulators (Sora)](https://openai.com/index/video-generation-models-as-world-simulators/) | 2024-02 | OpenAI | - | Diffusion |
+| [Vista: A Generalizable Driving World Model with High Fidelity and Versatile Controllability](https://arxiv.org/abs/2405.17398) | 2024-05 | NeurIPS 2024 | [Github](https://github.com/OpenDriveLab/Vista) | Diffusion |
+| [GAIA-2: A Controllable Multi-View Generative World Model for Autonomous Driving](https://arxiv.org/abs/2503.20523) | 2025-03 | Arxiv Wayve | - | Diffusion |
+| [Vid2World: Crafting Video Diffusion Models to Interactive World Models](https://arxiv.org/abs/2505.14357) | 2025-05 | Arxiv | - | AR+Diffusion |
+| [Epona: Autoregressive Diffusion World Model for Autonomous Driving]() | 2025-06 | ICCV 2025 | [Github](https://github.com/Kevin-thu/Epona) | AR+Diffusion |
+
+</details>
 
 ## 6. World Models for Intelligent Robots
 
