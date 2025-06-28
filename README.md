@@ -62,7 +62,7 @@
 | [Humanlike service robots: A systematic literature review and research agenda](https://doi.org/10.1002/mar.22099) | 2024-08 |  Psychology & Marketing |
 |[Human–robot collaboration and machine learning: A systematic review of recent research](https://doi.org/10.1016/j.rcim.2022.102432)| 2023-02 | Robotics and Computer-Integrated Manufacturing |
 | [Emotion Recognition for Human-Robot Interaction: Recent Advances and Future Perspectives](https://doi.org/10.3389/frobt.2020.532279) | 2020-12 | Frontiers in Robotics and AI |
-|       |      |       |
+|[Application, Development and Future Opportunities of Collaborative Robots (Cobots) in Manufacturing: A Literature Review](https://doi.org/10.1080/10447318.2022.2041907)| 2022-04 |  International Journal of Human–Computer Interaction |
 
 </details>
 
@@ -85,6 +85,25 @@
 
 <details>
 <summary>Physical Reliability</summary>
+
+| Paper | Date | Venue | Code | Remarks |
+|:------|:-----|:------|:-----|:-----|
+|[A Comparative Study of Probabilistic Roadmap Planners](https://link.springer.com/chapter/10.1007/978-3-540-45058-0_4)| 2004 | Algorithmic foundations of robotics V | -- | Probabilistic Roadmap Planning (PRM) |
+|[Rapidly-exploring random trees: A new tool for Path Planning](https://msl.cs.illinois.edu/~lavalle/papers/Lav98c.pdf)| 1998 | Research Report | -- | Rapidly-exploring Random Trees (RRT) |
+|[Sampling-based Algorithms for Optimal Motion Planning](https://arxiv.org/abs/1105.1186)|2011-05|International Journal of Robotics Research| -- |PRM* and RRT*|
+| [Path planning for manipulators based on an improved probabilistic roadmap method](https://doi.org/10.1016/j.rcim.2021.102196) | 2021-12 | Robotics and Computer-Integrated Manufacturing | -- | Path Planning for Manipulators |
+|[RRT-connect: An efficient approach to single-query path planning](https://doi.org/10.1109/ROBOT.2000.844730)|2000-04|ICRA 2000| -- | Incrementally build two RRTs from the start and goal. |
+|[Homotopy-Aware RRT*: Toward Human-Robot Topological Path-Planning](https://dl.acm.org/doi/10.5555/2906831.2906880)|2016-03|11th ACM/IEEE International Conference on Human-Robot Interaction|--|Human-robot Interactive Path-planning|
+|[Human-in-the-loop Robotic Manipulation Planning for Collaborative Assembly](https://arxiv.org/abs/1909.11280)|2019-09|IEEE Transactions on Automation Science and Engineering|Human-robot Interactive Path-planning|
+|[CHOMP: Gradient optimization techniques for efficient motion planning](https://doi.org/10.1109/ROBOT.2009.5152817)|2009-05|ICRA 2009|[MoveIt!](https://github.com/moveit/moveit_tutorials/blob/master/doc/chomp_planner/chomp_planner_tutorial.rst)|Gradient-based Trajectory Optimization|
+|[STOMP: Stochastic trajectory optimization for motion planning](https://doi.org/10.1109/ICRA.2011.5980280)|2011-05|ICRA 2011|[MoveIt!](https://moveit.github.io/moveit_tutorials/doc/stomp_planner/stomp_planner_tutorial.html)|Probabilistic Trajectory Optimization|
+|[ITOMP: Incremental trajectory optimization for real-time replanning in dynamic environments](https://doi.org/10.1609/icaps.v22i1.13513)|2012-05|Proceedings of the International Conference on Automated Planning and Scheduling|[Github](https://github.com/Chpark/itomp)|Trajectory Optimization in Dynamic Environment|
+|[Motion planning with sequential convex optimization and convex collision checking](https://rll.berkeley.edu/~sachin/papers/Schulman-IJRR2014.pdf)|2014|IJRR 2014| -- |Trajectory Optimization using SCO|
+|[Considering avoidance and consistency in motion planning for human-robot manipulation in a shared workspace](https://doi.org/10.1109/ICRA.2016.7487584)|2016-05|ICRA 2016| -- |Human-robot Interactive Path-planning|
+|[Considering Human Behavior in Motion Planning for Smooth Human-Robot Collaboration in Close Proximity](https://doi.org/10.1109/ROMAN.2018.8525607)|2018-08|27th IEEE International Symposium on Robot and Human Interactive Communication| -- |Human-robot Interactive Path-planning|
+|[Continuous-time Gaussian process motion planning via probabilistic inference](https://arxiv.org/abs/1707.07383)|2017-07|IJRR 2018| -- | Gaussian Process Motion Planner (GPMP) |
+|[Simultaneous Scene Reconstruction and Whole-Body Motion Planning for Safe Operation in Dynamic Environments](https://arxiv.org/abs/2103.03958)|2021-03|IROS 2021| -- |GPMP for Whole-body Motion Planning in Dynamic Scene|
+
 </details>
 
 <details>
