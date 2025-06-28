@@ -60,6 +60,8 @@
 | Paper | Date | Venue |
 |:------|:-----|:------|
 | [Humanlike service robots: A systematic literature review and research agenda](https://doi.org/10.1002/mar.22099) | 2024-08 |  Psychology & Marketing |
+|[Human–robot collaboration and machine learning: A systematic review of recent research](https://doi.org/10.1016/j.rcim.2022.102432)| 2023-02 | Robotics and Computer-Integrated Manufacturing |
+| [Emotion Recognition for Human-Robot Interaction: Recent Advances and Future Perspectives](https://doi.org/10.3389/frobt.2020.532279) | 2020-12 | Frontiers in Robotics and AI |
 |       |      |       |
 
 </details>
@@ -69,9 +71,15 @@
 
 | Paper | Date | Venue | Code | Task |
 |:------|:-----|:------|:-----|:-----|
-| [LLaVA-SLT: Visual Language Tuning for Sign Language Translation](https://arxiv.org/abs/2412.16524) | 2024-12 | Arxiv | -- | Sign Language |
-| :------ | :----- | :------ | :----- | :------------ |
-|         |        |         |        |               |
+| [LLaVA-SLT: Visual Language Tuning for Sign Language Translation](https://arxiv.org/abs/2412.16524) | 2024-12 | arXiv | -- | Sign Language |
+| [Artificial cognition for social human–robot interaction: An implementation](https://doi.org/10.1016/j.artint.2016.07.002) | 2017-06 | Artificial Intelligence | -- | Robot Cognitive Skills |
+| [Cognitive Interaction Analysis in Human–Robot Collaboration Using an Assembly Task](https://doi.org/10.3390/electronics10111317) | 2021-05 | Electronics | -- | Assembly Collabotation |
+|[Enhancing Robotic Collaborative Tasks Through Contextual Human Motion Prediction and Intention Inference](https://link.springer.com/article/10.1007/s12369-024-01140-2)| 2024-07 |  International Journal of Social Robotics  | -- | Human-Robot Handover |
+|[L3MVN: Leveraging Large Language Models for Visual Target Navigation](https://arxiv.org/abs/2304.05501)| 2023-10 | IROS 2023 | [Github](https://github.com/ybgdgh/L3MVN) | Object Goal Navigation |
+|[SG-Nav: Online 3D Scene Graph Prompting for LLM-based Zero-shot Object Navigation](https://arxiv.org/abs/2410.08189)| 2024-10 | NeurIPS 2024 | [Github](https://github.com/bagh2178/SG-Nav) | Object Goal Navigation |
+|[TriHelper: Zero-Shot Object Navigation with Dynamic Assistance](https://arxiv.org/abs/2403.15223)| 2024-03 | IROS 2024 | -- | Object Goal Navigation |
+|[CogNav: Cognitive Process Modeling for Object Goal Navigation with LLMs](https://openreview.net/forum?id=fRl85QEpgQ)| 2024-10 | NeurIPS 2024 OWA Workshop| -- | Object Goal Navigation |
+| [UniGoal: Towards Universal Zero-shot Goal-oriented Navigation](https://arxiv.org/abs/2503.10630) | 2025-03 | CVPR 2025 | [Github](https://github.com/bagh2178/UniGoal) | Goal-oriented Navigation  |
 
 </details>
 
