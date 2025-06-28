@@ -11,14 +11,15 @@
 
 
 ## Table of Content <!-- omit in toc -->
-- [Introduction](#introduction)
-- [Levels of Intelligent Robot](#levels-of-intelligent-robot)
-- [Robotic Mobility, Dexterity and Interaction](#robotic-mobility-dexterity-and-interaction)
-  - [Related Robotic Techniques](#related-robotic-techniques)
+- [1. Introduction](#1-introduction)
+- [2. Levels of Intelligent Robot](#2-levels-of-intelligent-robot)
+- [3. Robotic Mobility, Dexterity and Interaction](#3-robotic-mobility-dexterity-and-interaction)
+  - [Related Robotic SimulatorsSimulators](#related-robotic-simulatorssimulators)
   - [Robotic Locomotion](#robotic-locomotion)
-- [Simulators](#simulators)
-- [World Models](#world-models)
-- [World Models for Intelligent Robots](#world-models-for-intelligent-robots)
+  - [Human-Robot Interaction](#human-robot-interaction)
+- [4. Simulators](#4-simulators)
+- [5. World Models](#5-world-models)
+- [6. World Models for Intelligent Robots](#6-world-models-for-intelligent-robots)
   - [World Models for Autonomous Driving](#world-models-for-autonomous-driving)
   - [World Models for Articulated Robots](#world-models-for-articulated-robots)
 
@@ -51,6 +52,36 @@
 
 
 ### Robotic Locomotion
+
+### Human-Robot Interaction
+<details>
+<summary>Related Survey</summary>
+
+| Paper | Date | Venue |
+|:------|:-----|:------|
+| [Humanlike service robots: A systematic literature review and research agenda](https://doi.org/10.1002/mar.22099) | 2024-08 |  Psychology & Marketing |
+|       |      |       |
+
+</details>
+
+<details>
+<summary>Cognitive Collaboration</summary>
+
+| Paper | Date | Venue | Code | Task |
+|:------|:-----|:------|:-----|:-----|
+| [LLaVA-SLT: Visual Language Tuning for Sign Language Translation](https://arxiv.org/abs/2412.16524) | 2024-12 | Arxiv | -- | Sign Language |
+| :------ | :----- | :------ | :----- | :------------ |
+|         |        |         |        |               |
+
+</details>
+
+<details>
+<summary>Physical Reliability</summary>
+</details>
+
+<details>
+<summary>Social Embeddedness</summary>
+</details>
 
 ## 4. Simulators
 
