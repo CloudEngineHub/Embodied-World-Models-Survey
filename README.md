@@ -1,4 +1,4 @@
-# A Survey: Learning Emboided Intelligence from Physical Simulators and World Models <!-- omit in toc -->
+# A Survey: Learning Embodied Intelligence from Physical Simulators and World Models <!-- omit in toc -->
 
 <div align="center">
 <!-- <a href="https://arxiv.org/pdf/2506.11526"><img src="https://img.shields.io/badge/Paper-PDF-red.svg" alt="Paper Badge"/></a> -->
@@ -24,7 +24,18 @@
 
 ## 1. Introduction
 
+Embodied intelligence provides a foundation for creating robots that can truly understand and reason about the world in a more human-like manner. Central to enabling intelligent behavior in robots are two key technologies: physical simulators and world models. Physical simulators provide controlled, high-fidelity environments for training and evaluating robotic agents, allowing safe and efficient development of complex behaviors. While world models empower robots with internal representations of their surroundings, enabling predictive planning and adaptive decision-making beyond direct sensory input. The synergy between them enhances robots' autonomy, adaptability, and task performance across diverse scenarios.
+
+This repository aims to collect and organize research and resources related to learning embodied AI through the integration of physical simulators and world models.
+
+
+<p align="center">
+<img src="assets/1_Survey_outline.png" width="100%" height="auto"/>
+</p>
+
 ## 2. Levels of Intelligent Robot
+
+
 
 ## 3. Robotic Mobility, Dexterity and Interaction
 
@@ -99,15 +110,12 @@
 
 The following table compares researches for World Models in Robotics in terms of model input, architecture, experiment platform, and code availability.
 
-<details>
-<summary> Table </summary>
 <p align="center">
-<img src="assets/researches_of_WM_for_robotics.png" width="80%" height="auto"/>
+<img src="assets/6_Researches_of_WM_for_robotics.png" width="80%" height="auto"/>
 </p>
-</details>
 
 <details>
-<summary> Neural Simulators </summary>
+<summary> Neural Simulators</summary>
 
 | Paper | Date | Venue | Code |
 |:------|:-----|:------|:-----|
@@ -119,4 +127,4 @@ The following table compares researches for World Models in Robotics in terms of
 | [WorldEval: World Model as Real-World Robot Policies Evaluator](https://worldeval.github.io/) | 2025-05 | arXiv | [Github](https://github.com/liyaxuanliyaxuan/Worldeval)|
 | [DreamGen: Unlocking Generalization in Robot Learning through Neural Trajectories](https://research.nvidia.com/labs/gear/dreamgen/) | 2025-05 | arXiv | [Github](https://github.com/nvidia/GR00T-dreams)|
 
-</details>
+</detailsk>
