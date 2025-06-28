@@ -14,7 +14,7 @@
 - [1. Introduction](#1-introduction)
 - [2. Levels of Intelligent Robot](#2-levels-of-intelligent-robot)
 - [3. Robotic Mobility, Dexterity and Interaction](#3-robotic-mobility-dexterity-and-interaction)
-  - [Related Robotic SimulatorsSimulators](#related-robotic-simulatorssimulators)
+  - [Related Robotic Techniques](#related-robotic-techniques)
   - [Robotic Locomotion](#robotic-locomotion)
   - [Human-Robot Interaction](#human-robot-interaction)
 - [4. Simulators](#4-simulators)
@@ -29,7 +29,7 @@
 
 ## 3. Robotic Mobility, Dexterity and Interaction
 
-### Related Robotic SimulatorsSimulators
+### Related Robotic Techniques
 <details>
 <summary> Model Predictive Control, MPCs </summary>
 </details>
@@ -94,7 +94,7 @@
 | [Path planning for manipulators based on an improved probabilistic roadmap method](https://doi.org/10.1016/j.rcim.2021.102196) | 2021-12 | Robotics and Computer-Integrated Manufacturing | -- | Path Planning for Manipulators |
 |[RRT-connect: An efficient approach to single-query path planning](https://doi.org/10.1109/ROBOT.2000.844730)|2000-04|ICRA 2000| -- | Incrementally build two RRTs from the start and goal. |
 |[Homotopy-Aware RRT*: Toward Human-Robot Topological Path-Planning](https://dl.acm.org/doi/10.5555/2906831.2906880)|2016-03|11th ACM/IEEE International Conference on Human-Robot Interaction|--|Human-robot Interactive Path-planning|
-|[Human-in-the-loop Robotic Manipulation Planning for Collaborative Assembly](https://arxiv.org/abs/1909.11280)|2019-09|IEEE Transactions on Automation Science and Engineering|Human-robot Interactive Path-planning|
+|[Human-in-the-loop Robotic Manipulation Planning for Collaborative Assembly](https://arxiv.org/abs/1909.11280)|2019-09|IEEE Transactions on Automation Science and Engineering| -- |Human-robot Interactive Path-planning|
 |[CHOMP: Gradient optimization techniques for efficient motion planning](https://doi.org/10.1109/ROBOT.2009.5152817)|2009-05|ICRA 2009|[MoveIt!](https://github.com/moveit/moveit_tutorials/blob/master/doc/chomp_planner/chomp_planner_tutorial.rst)|Gradient-based Trajectory Optimization|
 |[STOMP: Stochastic trajectory optimization for motion planning](https://doi.org/10.1109/ICRA.2011.5980280)|2011-05|ICRA 2011|[MoveIt!](https://moveit.github.io/moveit_tutorials/doc/stomp_planner/stomp_planner_tutorial.html)|Probabilistic Trajectory Optimization|
 |[ITOMP: Incremental trajectory optimization for real-time replanning in dynamic environments](https://doi.org/10.1609/icaps.v22i1.13513)|2012-05|Proceedings of the International Conference on Automated Planning and Scheduling|[Github](https://github.com/Chpark/itomp)|Trajectory Optimization in Dynamic Environment|
