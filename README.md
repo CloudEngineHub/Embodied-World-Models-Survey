@@ -190,9 +190,34 @@ To address the absence of a comprehensive grading system that integrates the dim
 </details>
 
 ## 4. Simulators
+<details>
+<summary> Related Survey </summary>
+
+| Paper | Date | Venue | Code | Application |
+|:------|:-----|:------|:-----|:------------|
+| [A Review of Physics Simulators](https://ieeexplore.ieee.org/document/9386154) | 2021 | IEEE Access | – | Simlulator Survey |
+| [Review of Embodied AI](https://arxiv.org/pdf/2407.06886) | 2025 | arXiv | – | Embodied AI Survey |
+| [A Survey of Embodied AI](https://arxiv.org/pdf/2103.04918) | 2022 | arXiv | – | Embodied AI Survey |
+
+</details>
 
 <details>
-<summary> </summary>
+<summary> Related Works </summary>
+
+| Paper | Date | Venue | Code | Application |
+|:------|:-----|:------|:-----|:------------|
+| [ManiSkill3](https://arxiv.org/abs/2410.00425) | 2024 | arXiv | – | Manipulation Benchmark |
+| [ManiSkill2](https://openreview.net/forum?id=K5z_LXnL3p4) | 2023 | ICLR | – | Manipulation Benchmark |
+| [Analysis using DEM](https://ieeexplore.ieee.org/document/9172795) | 2020 | IEEE Aerospace | – | Granular Simulation |
+| [Mobile Aloha](https://arxiv.org/abs/2401.02117) | 2024 | arXiv | – | Teleoperation |
+| [Open-Television](https://arxiv.org/abs/2407.01512) | 2024 | arXiv | – | Teleoperation |
+| [Universal Manipulation Interface](https://arxiv.org/abs/2402.10329) | 2024 | arXiv | – | Imitation Learning |
+
+</details>
+
+### Mainstream Simulators
+<details>
+<summary> Overview and Documentation</summary>
 
 | Paper | Date | Venue | Code | Application |
 |:------|:-----|:------|:-----|:------------|
@@ -206,27 +231,65 @@ To address the absence of a comprehensive grading system that integrates the dim
 | [**Isaac Lab** Documentation](https://isaac-sim.github.io/IsaacLab/main/index.html) | 2025 | NVIDIA Developer | – | Simulator Platform |
 | [**SAPIEN**: A simulated part-based interactive environment](https://openaccess.thecvf.com/content_CVPR_2020/html/Xiang_SAPIEN_A_Simulated_Part-Based_Interactive_Environment_CVPR_2020_paper.html) | 2020 | CVPR | – | Simulator Platform |
 | [**Genesis**: A Universal and Generative Physics Engine](https://github.com/Genesis-Embodied-AI/Genesis) | 2024 | GitHub | [GitHub](https://github.com/Genesis-Embodied-AI/Genesis) | Simulator Platform |
+| [MuJoCo Programming Guide](https://mujoco.readthedocs.io/en/stable/programming/index.html) | 2025 | Docs | – | Developer Guide |
 | [Newton Isaac Sim Project](https://github.com/TheNewtonCapstone/newton-isaac-sim) | 2024 | GitHub | [GitHub](https://github.com/TheNewtonCapstone/newton-isaac-sim) | Simulator Platform |
 | [Newton Physics Engine Announcement](https://developer.nvidia.com/blog/announcing-newton-an-open-source-physics-engine-for-robotics-simulation/) | 2025 | NVIDIA Blog | – | Physics Engine |
-| [ManiSkill3](https://arxiv.org/abs/2410.00425) | 2024 | arXiv | – | Manipulation Benchmark |
-| [ManiSkill2](https://openreview.net/forum?id=K5z_LXnL3p4) | 2023 | ICLR | – | Manipulation Benchmark |
-| [MuJoCo Programming Guide](https://mujoco.readthedocs.io/en/stable/programming/index.html) | 2025 | Docs | – | Developer Guide |
-| [Offline Robotic World Model](https://arxiv.org/abs/2504.16680) | 2025 | arXiv | – | World Model Learning |
-| [Mobile Aloha](https://arxiv.org/abs/2401.02117) | 2024 | arXiv | – | Teleoperation |
-| [Open-Television](https://arxiv.org/abs/2407.01512) | 2024 | arXiv | – | Teleoperation |
-| [Universal Manipulation Interface](https://arxiv.org/abs/2402.10329) | 2024 | arXiv | – | Imitation Learning |
-| [Review of Physics Simulators](https://ieeexplore.ieee.org/document/9391431) | 2021 | ISAP | – | Simulator Survey |
-| [Analysis using DEM](https://ieeexplore.ieee.org/document/9172795) | 2020 | IEEE Aerospace | – | Granular Simulation |
+
+</details>
+
+### Physical Properties of Simulators
+<details>
+<summary> Overview </summary>
+
+<p align="center">
+<img src="assets/4_physical_simulation.jpg" width="80%" height="auto"/>
+</p>
+
+</details>
+
+<details>
+<summary> Physical Simulation Engines and Platforms </summary>
+
+| Paper | Date | Venue | Code | Application |
+|:------|:-----|:------|:-----|:------------|
+| [LS Group Interact Kinematics](https://documentation.ls-group.fr/interact/kinematics/) | 2025 | Docs | – | Kinematics Documentation |
+| [NVIDIA Omniverse](https://www.nvidia.com/en-us/omniverse/) | 2025 | NVIDIA Developer | – | 3D Simulation & Collaboration Platform |
+| [NVIDIA PhysX System Software](https://www.nvidia.cn/drivers/physx/physx-9-21-0713-driver/) | 2021 | NVIDIA Developer | – | Real-Time Physics Engine |
+
+</details>
+
+### Rendering Capabilities
+<details>
+<summary> Overview </summary>
+
+<p align="center">
+<img src="assets/4_physical_simulation.jpg" width="80%" height="auto"/>
+</p>
+
+</details>
+
+<details>
+<summary> Rendering Engines and Framework </summary>
+
+| Paper | Date | Venue | Code | Application |
+|:------|:-----|:------|:-----|:------------|
 | [LuisaRender](https://dl.acm.org/doi/10.1145/3550454.3555471) | 2022 | TOG | – | Rendering Framework |
 | [Pyrender](https://github.com/mmatl/pyrender) | 2019 | GitHub | [GitHub](https://github.com/mmatl/pyrender) | Rendering |
 | [HydraRendererInfo](https://github.com/Ray-Tracing-Systems/HydraRendererInfo) | 2019 | GitHub | [GitHub](https://github.com/Ray-Tracing-Systems/HydraRendererInfo) | Rendering |
-| [LS Group Interact Kinematics](https://documentation.ls-group.fr/interact/kinematics/) | 2025 | Docs | – | Kinematics Documentation |
 | [The Alliance for OpenUSD](https://aousd.org/) | 2023 | AOUSD | – | Open Universal Scene Description (USD) Standard |
-| [NVIDIA Omniverse](https://www.nvidia.com/en-us/omniverse/) | 2025 | NVIDIA Developer | – | 3D Simulation & Collaboration Platform |
-| [NVIDIA PhysX System Software](https://www.nvidia.cn/drivers/physx/physx-9-21-0713-driver/) | 2021 | NVIDIA Developer | – | Real-Time Physics Engine |
 | [OpenGL: The Industry Standard for High‑Performance Graphics](https://www.opengl.org/) | 1992 | Khronos Group | – | Cross-Platform Graphics API |
 | [Vulkan: Cross‑Platform 3D Graphics and Compute API](https://www.vulkan.org/) | 2016 | Khronos Group | – | Low-Level Graphics and Compute API |
 | [NVIDIA OptiX™ Ray Tracing Engine](https://developer.nvidia.com/rtx/ray-tracing/optix) | 2024 | NVIDIA Developer | – | GPU-Accelerated Ray Tracing Framework |
+
+</details>
+
+### Sensor and Joint Component Types
+<details>
+<summary> Overview </summary>
+
+<p align="center">
+<img src="assets/4_Sensor_and_Joint_Component.jpg" width="80%" height="auto"/>
+</p>
 
 </details>
 
