@@ -78,6 +78,8 @@ To address the absence of a comprehensive grading system that integrates the dim
 |[Human–robot collaboration and machine learning: A systematic review of recent research](https://doi.org/10.1016/j.rcim.2022.102432)| 2023-02 | Robotics and Computer-Integrated Manufacturing |
 | [Emotion Recognition for Human-Robot Interaction: Recent Advances and Future Perspectives](https://doi.org/10.3389/frobt.2020.532279) | 2020-12 | Frontiers in Robotics and AI |
 |[Application, Development and Future Opportunities of Collaborative Robots (Cobots) in Manufacturing: A Literature Review](https://doi.org/10.1080/10447318.2022.2041907)| 2022-04 |  International Journal of Human–Computer Interaction |
+|[Towards Social AI: A Survey on Understanding Social Interactions](https://arxiv.org/abs/2409.15316)|2024-09|arXiv|
+
 
 </details>
 
@@ -123,6 +125,32 @@ To address the absence of a comprehensive grading system that integrates the dim
 
 <details>
 <summary>Social Embeddedness</summary>
+
+| Paper | Date | Venue | Links | Remarks |
+|:------|:-----|:------|:-----|:-----|
+|[The space between us: A neurophilosophical framework for the investigation of human interpersonal space](https://doi.org/10.1016/j.neubiorev.2008.09.007)|2009-03|Neuroscience & Biobehavioral Reviews| -- |Peripersonal Space |
+|[The interrelation between peripersonal action space and interpersonal social space: psychophysiological evidence and clinical implications](https://doi.org/10.3389/fnhum.2021.636124)|2021-02|Frontiers in Human Neuroscience| -- | Peripersonal Space |
+|[Robot-assisted shopping for the blind: issues in spatial cognition and product selection](https://link.springer.com/article/10.1007/s11370-008-0020-9)|2008-03|Intelligent Service Robotics| -- |Application in Social Scenario|
+|[A review of assistive spatial orientation and navigation technologies for the visually impaired](https://link.springer.com/article/10.1007/s10209-017-0570-8)|2017-08|Universal Access in the Information Society| -- |Application in Social Scenario|
+|[ShelfHelp: Empowering Humans to Perform Vision-Independent Manipulation Tasks with a Socially Assistive Robotic Cane](https://arxiv.org/abs/2405.20501)|2024-05| arXiv | -- |Application in Social Scenario |
+|[Conversational memory network for emotion recognition in dyadic dialogue videos](https://pmc.ncbi.nlm.nih.gov/articles/PMC7098709/pdf/nihms-1574715.pdf)|2018-06|Proceedings of the conference. Association for Computational Linguistics| -- | Linguistic Research |
+|[Graph Based Network with Contextualized Representations of Turns in Dialogue](https://arxiv.org/abs/2109.04008)|2021-09|EMNLP 2021| -- |Linguistic Research|
+|[DialogueGCN: A Graph Convolutional Neural Network for Emotion Recognition in Conversation](https://arxiv.org/abs/1908.11540)|2019-08|EMNLP 2019| -- |Linguistic Research|
+|[Dialogue act modeling for automatic tagging and recognition of conversational speech](https://direct.mit.edu/coli/article-pdf/26/3/339/1797531/089120100561737.pdf)|2000-10|Computational Linguistics| -- |Linguistic Research|
+|[Werewolf among us: Multimodal resources for modeling persuasion behaviors in social deduction games](https://arxiv.org/abs/2212.08279)|2022-12|ACL 2023| -- |Linguistic Research|
+|[The Call for Socially Aware Language Technologies](https://arxiv.org/abs/2405.02411)|2025-02|pre-MIT Press publication version| -- |Linguistic Research|
+|[LD-ConGR: A Large RGB-D Video Dataset for Long-Distance Continuous Gesture Recognition](https://isrc.iscas.ac.cn/zhanglibo/pdfs/2022/CVPR_2022_03.pdf)|2022-06|CVPR 2022|[Github](https://github.com/Diananini/LD-ConGR-CVPR2022)| Non-verbal Behaviors Study |
+|[The Audio-Visual Conversational Graph: From an Egocentric-Exocentric Perspective](https://arxiv.org/abs/2312.12870)|2023-12|CVPR 2024|[Github](https://github.com/VJWQ/AV-CONV)| Non-verbal Behaviors Study|
+|[JRDB-Social: A Multifaceted Robotic Dataset for Understanding of Context and Dynamics of Human Interactions Within Social Groups](https://arxiv.org/abs/2404.04458)|2024-04|CVPR 2024|[Project Page](https://jrdb.erc.monash.edu/)|HRI in Social Group|
+|[SocialGesture: Delving into Multi-person Gesture Understanding](https://arxiv.org/abs/2504.02244)|2025-04|CVPR 2025|[Dataset](https://huggingface.co/datasets/IrohXu/SocialGesture) |Non-verbal Behaviors Study|
+|[MRAC Track 1: 2nd Workshop on Multimodal, Generative and Responsible Affective Computing](https://arxiv.org/abs/2409.07256)|2024-09|ACM MM Workshop 2024|[Workshop Page](https://react-ws.github.io/2024/)|Affective Computing|
+|[The Tong Test: Evaluating Artificial General Intelligence Through Dynamic Embodied Physical and Social Interactions](https://doi.org/10.1016/j.eng.2023.07.006)|2024-03|Engineering| -- | Evaluation of AGI in Social Interaction|
+
+
+
+
+
+
 </details>
 
 ## 4. Simulators
