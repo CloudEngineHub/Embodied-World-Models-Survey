@@ -72,7 +72,7 @@ To address the absence of a comprehensive grading system that integrates the dim
 ### Robotic Manipulation
 <details>
 <summary> Gripper-based manipulation </summary>
-| Paper        | Date    | Venue     | Code  |
+| Paper                                                                                                                                                                                      | Date    | Venue     | Code                                                      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- | --------- | --------------------------------------------------------- |
 | [Diffusion Policy: Visuomotor Policy Learning via Action Diffusion](https://arxiv.org/abs/2303.04137)     | 2023-03 | RSS 2023  | [Code](https://github.com/real-stanford/diffusion_policy) |
 | [RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control](https://robotics-transformer2.github.io/)   | 2023-7  | PMLR 23   | [Code](https://github.com/kyegomez/RT-2)                  |
