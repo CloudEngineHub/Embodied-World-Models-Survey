@@ -140,8 +140,8 @@ To address the absence of a comprehensive grading system that integrates the dim
 |[The Call for Socially Aware Language Technologies](https://arxiv.org/abs/2405.02411)|2025-02|pre-MIT Press publication version| -- |Linguistic Research|
 |[LD-ConGR: A Large RGB-D Video Dataset for Long-Distance Continuous Gesture Recognition](https://isrc.iscas.ac.cn/zhanglibo/pdfs/2022/CVPR_2022_03.pdf)|2022-06|CVPR 2022|[Github](https://github.com/Diananini/LD-ConGR-CVPR2022)| Non-verbal Behaviors Study |
 |[The Audio-Visual Conversational Graph: From an Egocentric-Exocentric Perspective](https://arxiv.org/abs/2312.12870)|2023-12|CVPR 2024|[Github](https://github.com/VJWQ/AV-CONV)| Non-verbal Behaviors Study|
-|[JRDB-Social: A Multifaceted Robotic Dataset for Understanding of Context and Dynamics of Human Interactions Within Social Groups](https://arxiv.org/abs/2404.04458)|2024-04|CVPR 2024|[Project Page](https://jrdb.erc.monash.edu/)|HRI in Social Group|
 |[SocialGesture: Delving into Multi-person Gesture Understanding](https://arxiv.org/abs/2504.02244)|2025-04|CVPR 2025|[Dataset](https://huggingface.co/datasets/IrohXu/SocialGesture) |Non-verbal Behaviors Study|
+|[JRDB-Social: A Multifaceted Robotic Dataset for Understanding of Context and Dynamics of Human Interactions Within Social Groups](https://arxiv.org/abs/2404.04458)|2024-04|CVPR 2024|[Project Page](https://jrdb.erc.monash.edu/)|HRI in Social Group|
 |[MRAC Track 1: 2nd Workshop on Multimodal, Generative and Responsible Affective Computing](https://arxiv.org/abs/2409.07256)|2024-09|ACM MM Workshop 2024|[Workshop Page](https://react-ws.github.io/2024/)|Affective Computing|
 |[The Tong Test: Evaluating Artificial General Intelligence Through Dynamic Embodied Physical and Social Interactions](https://doi.org/10.1016/j.eng.2023.07.006)|2024-03|Engineering| -- | Evaluation of AGI in Social Interaction|
 
