@@ -72,6 +72,15 @@ To address the absence of a comprehensive grading system that integrates the dim
 ### Robotic Manipulation
 <details>
 <summary> Gripper-based manipulation </summary>
+| Paper        | Date    | Venue     | Code  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- | --------- | --------------------------------------------------------- |
+| [Diffusion Policy: Visuomotor Policy Learning via Action Diffusion](https://arxiv.org/abs/2303.04137)     | 2023-03 | RSS 2023  | [Code](https://github.com/real-stanford/diffusion_policy) |
+| [RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control](https://robotics-transformer2.github.io/)   | 2023-7  | PMLR 23   | [Code](https://github.com/kyegomez/RT-2)                  |
+| [Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation](https://proceedings.mlr.press/v205/shridhar23a/shridhar23a.pdf) | 2022-9  | CoRL 2022 | [Code](https://github.com/peract/peract)  |
+|  [Act3d: 3d feature field transformers for multi-task robotic manipulation](https://arxiv.org/abs/2306.17817)       |   2023-6      |   Arxiv  |   [Code](https://github.com/zhouxian/act3d-chained-diffuser)       |
+|  [Modeling of deformable objects for robotic manipulation: A tutorial and review](https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2020.00082/pdf)     |    2020-9     |   Frontiers in Robotics and AI        |      --         |
+| [6-DOF Grasping for Target-driven Object Manipulation in Clutter](https://arxiv.org/abs/1912.03628)          | 2019-12 | ICRA 2020 | --| 
+| [Cable manipulation with a tactile-reactive gripper](https://journals.sagepub.com/doi/pdf/10.1177/02783649211027233)|2021-12|IJRR 2021|--|
 
 </details>
 
