@@ -68,6 +68,33 @@ To address the absence of a comprehensive grading system that integrates the dim
 
 ### Robotic Locomotion
 
+
+### Robotic Manipulation
+<details>
+<summary> Gripper-based manipulation </summary>
+
+</details>
+
+<details>
+<summary>Dexterous hand manipulation </summary>
+
+</details>
+
+<details>
+<summary> Bimanual Manipulation Task</summary>
+
+</details>
+
+<details>
+<summary> Whole-Body Manipulation Control</summary>
+
+</details>
+
+<details>
+<summary>Foundation Models in Humanoid Robot Manipulation </summary>
+
+</details>
+
 ### Human-Robot Interaction
 <details>
 <summary>Related Survey</summary>
