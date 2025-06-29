@@ -88,7 +88,6 @@ To address the absence of a comprehensive grading system that integrates the dim
 
 | Paper | Date | Venue | Code | Task |
 |:------|:-----|:------|:-----|:-----|
-| [LLaVA-SLT: Visual Language Tuning for Sign Language Translation](https://arxiv.org/abs/2412.16524) | 2024-12 | arXiv | -- | Sign Language |
 | [Artificial cognition for social human–robot interaction: An implementation](https://doi.org/10.1016/j.artint.2016.07.002) | 2017-06 | Artificial Intelligence | -- | Robot Cognitive Skills |
 | [Cognitive Interaction Analysis in Human–Robot Collaboration Using an Assembly Task](https://doi.org/10.3390/electronics10111317) | 2021-05 | Electronics | -- | Assembly Collabotation |
 |[Enhancing Robotic Collaborative Tasks Through Contextual Human Motion Prediction and Intention Inference](https://link.springer.com/article/10.1007/s12369-024-01140-2)| 2024-07 |  International Journal of Social Robotics  | -- | Human-Robot Handover |
