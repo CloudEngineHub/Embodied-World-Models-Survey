@@ -173,6 +173,8 @@ To address the absence of a comprehensive grading system that integrates the dim
 | [Emotion Recognition for Human-Robot Interaction: Recent Advances and Future Perspectives](https://doi.org/10.3389/frobt.2020.532279) | 2020-12 | Frontiers in Robotics and AI |
 |[Application, Development and Future Opportunities of Collaborative Robots (Cobots) in Manufacturing: A Literature Review](https://doi.org/10.1080/10447318.2022.2041907)| 2022-04 |  International Journal of Human–Computer Interaction |
 |[Towards Social AI: A Survey on Understanding Social Interactions](https://arxiv.org/abs/2409.15316)|2024-09|arXiv|
+|[Human–robot interaction: A review and analysis on variable admittance control, safety, and perspectives](https://doi.org/10.3390/machines10070591)|2022-07|Machines|
+|[Human-robot perception in industrial environments: A survey](https://doi.org/10.3390/s21051571)|2021-02|Sensors|
 
 
 </details>
@@ -213,6 +215,19 @@ To address the absence of a comprehensive grading system that integrates the dim
 |[Considering Human Behavior in Motion Planning for Smooth Human-Robot Collaboration in Close Proximity](https://doi.org/10.1109/ROMAN.2018.8525607)|2018-08|27th IEEE International Symposium on Robot and Human Interactive Communication| -- |Human-robot Interactive Path-planning|
 |[Continuous-time Gaussian process motion planning via probabilistic inference](https://arxiv.org/abs/1707.07383)|2017-07|IJRR 2018| -- | Gaussian Process Motion Planner (GPMP) |
 |[Simultaneous Scene Reconstruction and Whole-Body Motion Planning for Safe Operation in Dynamic Environments](https://arxiv.org/abs/2103.03958)|2021-03|IROS 2021| -- |GPMP for Whole-body Motion Planning in Dynamic Scene|
+|[Admittance control for collaborative dual-arm manipulation](https://doi.org/10.1109/ICAR46387.2019.8981624)|2019-12|International Conference on Advanced Robotics| -- |Admittance Control|
+|[Cooperative control of dual-arm robots in different human-robot collaborative tasks](https://www.emerald.com/insight/content/doi/10.1108/aa-12-2018-0264/full/html)|2020-02|Assembly Automation| -- |Admittance Control|
+|[Control system design and methods for collaborative robots](https://doi.org/10.3390/app13010675)|2023-01|Applied Sciences| -- |Interactive Control System|
+|[Towards shared autonomy framework for human-aware motion planning in industrial human-robot collaboration](https://doi.org/10.1109/CASE48305.2020.9217003)|2020-08|International Conference on Automation Science and Engineering| -- |Industrial HRI|
+|[An actor-critic approach for legible robot motion planner](https://doi.org/10.1109/ICRA40945.2020.9197102)|2020-05|ICRA 2020| -- |RL Method|
+|[A task-adaptive deep reinforcement learning framework for dual-arm robot manipulation](https://doi.org/10.1109/TASE.2024.3352584)|2024-01|IEEE Transactions on Automation Science and Engineering| -- |RL Method|
+|[Learning robust skills for tightly coordinated arms in contact-rich tasks](https://doi.org/10.1109/LRA.2024.3359542)|2024-01|IEEE RAL| -- |RL Method|
+|[HandoverSim: A Simulation Framework and Benchmark for Human-to-Robot Object Handovers](https://arxiv.org/abs/2205.09747)|2022-05|ICRA 2022|[Github](https://github.com/NVlabs/handover-sim)|Benchmark|
+|[GenH2R: Learning Generalizable Human-to-Robot Handover via Scalable Simulation, Demonstration, and Imitation](https://arxiv.org/abs/2401.00929)|2024-01|CVPR 2024|[Github](https://github.com/chenjy2003/genh2r)|Imitation Learning|
+|[MobileH2R: Learning Generalizable Human to Mobile Robot Handover Exclusively from Scalable and Diverse Synthetic Data](https://arxiv.org/abs/2501.04595)|2025-01|CoRR 2025| -- |Imitation Learning|
+
+
+
 </details>
 
 <details>
