@@ -44,7 +44,7 @@ To address the absence of a comprehensive grading system that integrates the dim
 
 ## 3. Robotic Mobility, Dexterity and Interaction
 
-### Related Robotic SimulatorsSimulators
+### Related Robotic Techniques
 <details>
 <summary> Model Predictive Control, MPC </summary>
 
