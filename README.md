@@ -14,10 +14,15 @@
 - [1. Introduction](#1-introduction)
 - [2. Levels of Intelligent Robot](#2-levels-of-intelligent-robot)
 - [3. Robotic Mobility, Dexterity and Interaction](#3-robotic-mobility-dexterity-and-interaction)
-  - [Related Robotic SimulatorsSimulators](#related-robotic-simulatorssimulators)
+  - [Related Robotic Techniques](#related-robotic-techniques)
   - [Robotic Locomotion](#robotic-locomotion)
+  - [Robotic Manipulation](#robotic-manipulation)
   - [Human-Robot Interaction](#human-robot-interaction)
 - [4. Simulators](#4-simulators)
+  - [Mainstream Simulators](#mainstream-simulators)
+  - [Physical Properties of Simulators](#physical-properties-of-simulators)
+  - [Rendering Capabilities](#rendering-capabilities)
+  - [Sensor and Joint Component Types](#sensor-and-joint-component-types)
 - [5. World Models](#5-world-models)
 - [6. World Models for Intelligent Robots](#6-world-models-for-intelligent-robots)
   - [World Models for Autonomous Driving](#world-models-for-autonomous-driving)
@@ -283,14 +288,12 @@ To address the absence of a comprehensive grading system that integrates the dim
 </details>
 
 ### Physical Properties of Simulators
-<details>
-<summary> Overview </summary>
+
 
 <p align="center">
 <img src="assets/4_physical_simulation.jpg" width="80%" height="auto"/>
 </p>
 
-</details>
 
 <details>
 <summary> Physical Simulation Engines and Platforms </summary>
@@ -304,14 +307,11 @@ To address the absence of a comprehensive grading system that integrates the dim
 </details>
 
 ### Rendering Capabilities
-<details>
-<summary> Overview </summary>
 
 <p align="center">
 <img src="assets/4_physical_simulation.jpg" width="80%" height="auto"/>
 </p>
 
-</details>
 
 <details>
 <summary> Rendering Engines and Framework </summary>
@@ -329,15 +329,10 @@ To address the absence of a comprehensive grading system that integrates the dim
 </details>
 
 ### Sensor and Joint Component Types
-<details>
-<summary> Overview </summary>
 
 <p align="center">
 <img src="assets/4_Sensor_and_Joint_Component.jpg" width="80%" height="auto"/>
 </p>
-
-</details>
-
 
 ## 5. World Models
 <details>
