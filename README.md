@@ -46,23 +46,75 @@ To address the absence of a comprehensive grading system that integrates the dim
 
 ### Related Robotic SimulatorsSimulators
 <details>
-<summary> Model Predictive Control, MPCs </summary>
+<summary> Model Predictive Control, MPC </summary>
+
+|Paper| Date    | Venue     |
+|---- | ------- | --------- |
+| [Model Predictive Control: Theory, Computation, and Design](https://sites.engineering.ucsb.edu/~jbraw/mpc/)     | 2017 | Nob Hill Publishing, LLC  |
+| [Model predictive control of legged and humanoid robots: models and algorithms](https://www.tandfonline.com/doi/full/10.1080/01691864.2023.2168134) | 2023-02 | Advanced Robotics |
+| [An integrated system for real-time model predictive control of humanoid robots](https://ieeexplore.ieee.org/abstract/document/7029990) | 2013-10 | Humanoids 2013 |
+| [Whole-body model-predictive control applied to the HRP-2 humanoid](https://ieeexplore.ieee.org/abstract/document/7353843) | 2015-09 | IROS 2015|
 </details>
 
 <details>
 <summary> Whole-Body Control, WBC </summary>
+
+|Paper| Date    | Venue     |
+|---- | ------- | --------- |
+| [Humanoid Robotics: A Reference](https://link.springer.com/referencework/10.1007/978-94-007-7194-9) | 2017 | Springer|
+| [A whole-body control framework for humanoids operating in human environments](https://ieeexplore.ieee.org/abstract/document/1642100) | 2006-05 | ICRA 2006 |
+| [Hierarchical quadratic programming: Fast online humanoid-robot motion generation](https://journals.sagepub.com/doi/abs/10.1177/0278364914521306) | 2014-05 | The International Journal of Robotics Research |
+| [Optimization-based locomotion planning, estimation, and control design for the atlas humanoid robot](https://link.springer.com/article/10.1007/s10514-015-9479-3) | 2015-07 | Autonomous Robots |
+| [Compliant locomotion using whole-body control and divergent component of motion tracking](https://ieeexplore.ieee.org/abstract/document/7140001) | 2015-05 | ICRA 2015 |
+| [ExBody2: Advanced Expressive Humanoid Whole-Body Control](https://arxiv.org/abs/2412.13196) | 2024-12 | arXiv |
+| [A Unified and General Humanoid Whole-Body Controller for Fine-Grained Locomotion](https://arxiv.org/abs/2502.03206) | 2025-02 | arXiv| 
 </details>
 
 <details>
 <summary> Reinforcement Learning </summary>
+
+|Paper| Date    | Venue     |
+|---- | ------- | --------- |
+| [Reinforcement learning in robotics: A survey](https://journals.sagepub.com/doi/abs/10.1177/0278364913495721) | 2013-08 | The International Journal of Robotics Research|
+| [Learning-based legged locomotion: State of the art and future perspectives](https://journals.sagepub.com/doi/full/10.1177/02783649241312698) | 2025-01 | The International Journal of Robotics Research|
+| [Reinforcement learning of dynamic motor sequence: Learning to stand up](https://ieeexplore.ieee.org/abstract/document/724846/) | 1998-10 | IROS 1998|
+| [DeepLoco: dynamic locomotion skills using hierarchical deep reinforcement learning](https://dl.acm.org/doi/abs/10.1145/3072959.3073602) | 2017-07 | TOG |
+| [Learning symmetric and low-energy locomotion](https://dl.acm.org/doi/abs/10.1145/3197517.3201397)| 2018-07 | TOG| 
+| [Emergence of locomotion behaviours in rich environments](https://arxiv.org/abs/1707.02286) | 2017-10 | arXiv|
+| [Iterative Reinforcement Learning Based Design of Dynamic Locomotion Skills for Cassie](https://arxiv.org/abs/1903.09537) | 2019-03 | arXiv|
 </details>
 
 <details>
 <summary> Imitation Learning </summary>
+
+|Paper| Date    | Venue     |
+|---- | ------- | --------- |
+| [Diffusion policy: Visuomotor policy learning via action diffusion](https://journals.sagepub.com/doi/abs/10.1177/02783649241273668) | 2024-10 | The International Journal of Robotics Research |
+| [3d diffusion policy](https://arxiv.org/abs/2403.03954) | 2024-03 | arXiv|
+| [Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware](https://arxiv.org/abs/2304.13705)| 2023-04 | arXiv|
+| [RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation](https://arxiv.org/abs/2410.07864) | 2024-10 | arXiv|
+| [Diffuseloco: Real-time legged locomotion control with diffusion from offline datasets](https://arxiv.org/abs/2404.19264) | 2024-04 | arXiv|
+| [AMP: adversarial motion priors for stylized physics-based character control](https://dl.acm.org/doi/abs/10.1145/3450626.3459670) | 2021-07 | TOG |
+| [Whole-body Humanoid Robot Locomotion with Human Reference](https://ieeexplore.ieee.org/abstract/document/10801451) | 2024-10 | IROS 2024|
+| [Dexcap: Scalable and portable mocap data collection system for dexterous manipulation](https://arxiv.org/abs/2403.07788)| 2024-03 | arXiv|
+| [Open-television: Teleoperation with immersive active visual feedback](https://arxiv.org/abs/2407.01512) | 2024-07| arXiv|
+| [Visual Imitation Enables Contextual Humanoid Control](https://arxiv.org/abs/2505.03729) | 2025-05 | arXiv|
 </details>
 
 <details>
 <summary> Visual-Language-Action Models, VLA </summary>
+
+|Paper| Date    | Venue     |
+|---- | ------- | --------- |
+| [Rt-2: Vision-language-action models transfer web knowledge to robotic control](https://proceedings.mlr.press/v229/zitkovich23a.html) | 2023-07 | CoRL 2023 |
+| [Openvla: An open-source vision-language-action](https://arxiv.org/abs/2406.09246) | 2024-06 | arXiv|
+| [3D-VLA: A 3D Vision-Language-Action Generative World Model](https://arxiv.org/abs/2403.09631) | 2024-03 | arXiv|
+| [Magma: A foundation model for multimodal ai agents](https://openaccess.thecvf.com/content/CVPR2025/html/Yang_Magma_A_Foundation_Model_for_Multimodal_AI_Agents_CVPR_2025_paper.html) | 2025-06 | CVPR 2025|
+| [$π_0$: A Vision-Language-Action Flow Model for General Robot Control](https://arxiv.org/abs/2410.24164) | 2024-10 | arXiv|
+| [Fast: Efficient action tokenization for vision-language-action models](https://arxiv.org/abs/2501.09747) |2025-01 | arXiv|
+| [Hi robot: Open-ended instruction following with hierarchical vision-language-action models](https://arxiv.org/abs/2502.19417) | 2025-02 | arXiv|
+| [TinyVLA: Towards Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation](https://arxiv.org/abs/2409.12514)| 2024-09 | arXiv|
+| [Vision-Language-Action Models: Concepts, Progress, Applications and Challenges](https://arxiv.org/abs/2505.04769) | 2025-05 | arXiv|
 </details>
 
 
@@ -156,7 +208,6 @@ To address the absence of a comprehensive grading system that integrates the dim
 |[Considering Human Behavior in Motion Planning for Smooth Human-Robot Collaboration in Close Proximity](https://doi.org/10.1109/ROMAN.2018.8525607)|2018-08|27th IEEE International Symposium on Robot and Human Interactive Communication| -- |Human-robot Interactive Path-planning|
 |[Continuous-time Gaussian process motion planning via probabilistic inference](https://arxiv.org/abs/1707.07383)|2017-07|IJRR 2018| -- | Gaussian Process Motion Planner (GPMP) |
 |[Simultaneous Scene Reconstruction and Whole-Body Motion Planning for Safe Operation in Dynamic Environments](https://arxiv.org/abs/2103.03958)|2021-03|IROS 2021| -- |GPMP for Whole-body Motion Planning in Dynamic Scene|
-
 </details>
 
 <details>
@@ -181,12 +232,6 @@ To address the absence of a comprehensive grading system that integrates the dim
 |[JRDB-Social: A Multifaceted Robotic Dataset for Understanding of Context and Dynamics of Human Interactions Within Social Groups](https://arxiv.org/abs/2404.04458)|2024-04|CVPR 2024|[Project Page](https://jrdb.erc.monash.edu/)|HRI in Social Group|
 |[MRAC Track 1: 2nd Workshop on Multimodal, Generative and Responsible Affective Computing](https://arxiv.org/abs/2409.07256)|2024-09|ACM MM Workshop 2024|[Workshop Page](https://react-ws.github.io/2024/)|Affective Computing|
 |[The Tong Test: Evaluating Artificial General Intelligence Through Dynamic Embodied Physical and Social Interactions](https://doi.org/10.1016/j.eng.2023.07.006)|2024-03|Engineering| -- | Evaluation of AGI in Social Interaction|
-
-
-
-
-
-
 </details>
 
 ## 4. Simulators
