@@ -10,6 +10,30 @@
 </div>
 
 
+<p align="center">
+<img src="assets/0_Teaser.png" width="50%" height="auto"/>
+</p>
+
+## 🤝 &nbsp; Citation
+Please visit [A Survey: Learning Embodied Intelligence from Physical Simulators and World Models](https://arxiv.org/abs/2507.00917) for more details and comprehensive information.
+
+Author list:
+Xiaoxiao Long, Qingrui Zhao, Kaiwen Zhang, Zihao Zhang, Dingrui Wang, Yumeng Liu, Zhengjie Shu, Yi Lu, Shouzheng Wang, Xinzhe Wei, Wei Li, Wei Yin, Yao Yao, Jia Pan, Qiu Shen, Ruigang Yang, Xun Cao, Qionghai Dai
+
+
+<!-- ```BibTeX
+@misc{gao2025foundationmodelsautonomousdriving,
+  title={Foundation Models in Autonomous Driving: A Survey on Scenario Generation and Scenario Analysis},
+  author={Yuan Gao, Mattia Piccinini, Yuchen Zhang, Dingrui Wang, Korbinian Moller, Roberto Brusnicki, Baha Zarrouki, Alessio Gambi, Jan Frederik Totz, Kai Storms, Steven Peters, Andrea Stocco, Bassam Alrifaee, Marco Pavone and Johannes Betz,
+  journal={TBD},
+  year={2025},
+  eprint={2506.11526},
+  archivePrefix={arXiv},
+  primaryClass={cs.RO},
+  url={https://arxiv.org/abs/2506.11526}, 
+}
+``` -->
+
 ## Table of Content <!-- omit in toc -->
 - [1. Introduction](#1-introduction)
 - [2. Levels of Intelligent Robot](#2-levels-of-intelligent-robot)
