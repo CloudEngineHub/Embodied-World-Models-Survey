@@ -190,6 +190,15 @@ To address the absence of a comprehensive grading system that integrates the dim
 <details>
 <summary> Bimanual Manipulation Task</summary>
 
+| Paper                                                                                                                                                               | Date    | Venue     | Code                                                           |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | --------- | -------------------------------------------------------------- |
+| [Stabilize to act: Learning to coordinate for bimanual manipulation](https://proceedings.mlr.press/v229/grannen23a.html)                                            | 2023-9  | CoRL 2023 | --                                                             |
+| [Interactive imitation learning of bimanual movement primitives](https://ieeexplore.ieee.org/abstract/document/10215052/)                                           | 2023-8  | TMECH     | --                                                             |
+| [Learning fine-grained bimanual manipulation with low-cost hardware](https://arxiv.org/abs/2304.13705)                                                              | 2023-4  | RSS 2023  | [Cpde](https://tonyzhaozh.github.io/aloha/)                    |
+| [Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation](https://arxiv.org/abs/2401.02117)                                      | 2024-1  | CoRL 2024 | [Code](https://github.com/MarkFzp/mobile-aloha)                |
+| [RoboTwin 2.0: A Scalable Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation](https://arxiv.org/abs/2506.18088) | 2025-6  | Arxiv     | [Code](https://github.com/robotwin-Platform/RoboTwin)          |
+| [Rdt-1b: a diffusion foundation model for bimanual manipulation](https://arxiv.org/abs/2410.07864)                                                                  | 2024-10 | Arxiv     | [Code](https://github.com/thu-ml/RoboticsDiffusionTransformer) |
+
 </details>
 
 <details>
