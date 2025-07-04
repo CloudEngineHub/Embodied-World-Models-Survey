@@ -204,6 +204,17 @@ To address the absence of a comprehensive grading system that integrates the dim
 <details>
 <summary> Whole-Body Manipulation Control</summary>
 
+| Paper                                                                                                                                       | Date    | Venue             | Code                                                |
+| ------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ----------------- | --------------------------------------------------- |
+| [Tidybot: Personalized robot assistance with large language models](https://link.springer.com/article/10.1007/s10514-023-10139-z)           | 2023-12 | Autonomous Robots | --                                                  |
+| [Open-world object manipulation using pre-trained vision-language models](https://arxiv.org/abs/2303.00905)                                 | 2023-2  | Arixv             | [Website](https://robot-moo.github.io/)             |
+| [Harmon: Whole-body motion generation of humanoid robots from language descriptions](https://arxiv.org/abs/2410.12773)                      | 2024-10 | CoRL 2024         | [Website](https://ut-austin-rpl.github.io/Harmon/)  |
+| [Okami: Teaching humanoid robots manipulation skills through single video imitation](https://openreview.net/forum?id=URj5TQTAXM)            | 2024-10 | CoRL 2024         | [Code](https://github.com/UT-Austin-RPL/OKAMI)      |
+| [Generalizable Humanoid Manipulation with 3D Diffusion Policies](https://arxiv.org/abs/2410.10803)                                          | 2024-10 | Arixv             | [Code](https://humanoid-manipulation.github.io/)    |
+| [OmniH2O: Universal and Dexterous Human-to-Humanoid Whole-Body Teleoperation and Learning](https://arxiv.org/abs/2406.08858)                | 2024-6  | CoRL 2024         | [Code](https://github.com/LeCAR-Lab/human2humanoid) |
+| [HumanPlus: Humanoid Shadowing and Imitation from Humans](https://arxiv.org/abs/2406.10454)                                                 | 2024-6  | CoRL 2024         | [Code](https://github.com/MarkFzp/humanplus)        |
+| [BEHAVIOR Robot Suite: Streamlining Real-World Whole-Body Manipulation for Everyday Household Activities](https://arxiv.org/abs/2503.05652) | 2025-3  | Arixv             | [Code](https://behavior-robot-suite.github.io/)     |
+
 </details>
 
 <details>
