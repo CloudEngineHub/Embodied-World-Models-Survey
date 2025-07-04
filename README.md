@@ -157,6 +157,7 @@ To address the absence of a comprehensive grading system that integrates the dim
 | Paper                                                                                                                                                                                      | Date    | Venue     | Code                                                      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- | --------- | --------------------------------------------------------- |
 | [Diffusion Policy: Visuomotor Policy Learning via Action Diffusion](https://arxiv.org/abs/2303.04137)     | 2023-03 | RSS 2023  | [Code](https://github.com/real-stanford/diffusion_policy) |
+| [RT-1: Robotics Transformer for Real-World Control at Scale](https://arxiv.org/abs/2212.06817)      | 2022-12 | Arxiv                        | [Code](https://github.com/google-research/robotics_transformer) |
 | [RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control](https://robotics-transformer2.github.io/)   | 2023-7  | PMLR 23   | [Code](https://github.com/kyegomez/RT-2)                  |
 | [Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation](https://proceedings.mlr.press/v205/shridhar23a/shridhar23a.pdf) | 2022-9  | CoRL 2022 | [Code](https://github.com/peract/peract)  |
 |  [Act3d: 3d feature field transformers for multi-task robotic manipulation](https://arxiv.org/abs/2306.17817)       |   2023-6      |   Arxiv  |   [Code](https://github.com/zhouxian/act3d-chained-diffuser)       |
@@ -168,6 +169,21 @@ To address the absence of a comprehensive grading system that integrates the dim
 
 <details>
 <summary>Dexterous hand manipulation </summary>
+
+| Paper                                                                                                                                         | Date    | Venue                 | Code                                                                |
+| --------------------------------------------------------------------------------------------------------------------------------------------- | ------- | --------------------- | ------------------------------------------------------------------- |
+| [Dexgraspnet: A large-scale robotic dexterous grasp dataset for general objects based on simulation](https://arxiv.org/pdf/2210.02697)        | 2023-5  | Arxiv                 | [Code](https://github.com/PKU-EPIC/DexGraspNet)                     |
+| [DexGraspNet 2.0: Learning Generative Dexterous Grasping in Large-scale Synthetic Cluttered Scenes](https://openreview.net/pdf?id=5W0iZR9J7h) | 2024-10 | CoRL 2024             | [Code](https://github.com/PKU-EPIC/DexGraspNet2)                    |
+| [HGC-Net: Deep anthropomorphic hand grasping in clutter](https://ieeexplore.ieee.org/abstract/document/9811756/)                              | 2022-5  | ICRA 2022             | [Code](https://github.com/yimingli1998/hgc_net)                     |
+| [Deep differentiable grasp planner for high-dof grippers](https://arxiv.org/abs/2002.01530)                                                   | 2022-2  | Arxiv                 | --                                                                  |
+| [DexGrasp Anything: Towards Universal Robotic Dexterous Grasping with Physics Awareness](https://arxiv.org/abs/2503.08257)                    | 2025-3  | Arxiv                 | [Code](https://github.com/4DVLab/DexGrasp-Anything)                 |
+| [UGG: Unified Generative Grasping](https://arxiv.org/abs/2311.16917)                                                                          | 2023-11 | ECCV 2004             | [Code](https://github.com/Jiaxin-Lu/ugg)                            |
+| [SpringGrasp: Synthesizing Compliant, Dexterous Grasps under Shape Uncertainty](https://arxiv.org/abs/2404.13532)                             | 2024-4  | Arxiv                 | [Code](https://github.com/Stanford-TML/SpringGrasp_release)         |
+| [A System for General In-Hand Object Re-Orientation](https://proceedings.mlr.press/v164/chen22a.html)                                         | 2021-11 | CoRL 2021             | [Code](https://github.com/Improbable-AI/dexenv)                     |
+| [Visual dexterity: In-hand reorientation of novel and complex object shapes](https://www.science.org/doi/abs/10.1126/scirobotics.adc9244)     | 2023-11 | Science Robotics 2023 | --                                                                  |
+| [Rotating without Seeing: Towards In-hand Dexterity through Touch](https://arxiv.org/abs/2303.10880)                                          | 2023-3  | RSS 2023              | [Code](https://github.com/YingYuan0414/in-hand-rotation)            |
+| [DexVIP: Learning Dexterous Grasping with Human Hand Pose Priors from Video](https://proceedings.mlr.press/v164/mandikal22a.html)             | 2021-6  | CoRL 2021             | --                                                                  |
+| [DexGraspVLA: A Vision-Language-Action Framework Towards General Dexterous Grasping](https://arxiv.org/abs/2502.20900)                        | 2025-2  | Arixv                 | [Code](https://github.com/Psi-Robot/DexGraspVLA?tab=readme-ov-file) |
 
 </details>
 
