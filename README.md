@@ -476,37 +476,96 @@ To address the absence of a comprehensive grading system that integrates the dim
 ### World Models for Autonomous Driving
 
 <details>
+<summary> Table </summary>
+
+<p align="center">
+<img src="assets/6_Researches_of_WM_for_AD.png" width="80%" height="auto"/>
+</p>
+
+</details>
+
+<details>
 <summary> WMs as Neural Simulators for Autonomous Driving </summary>
 
 | Paper | Date | Venue | Code | Application |
 |:------|:-----|:------|:-----|:------------|
-| [DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving](https://arxiv.org/abs/2309.09777) | 2023-09 | ECCV 2024 | [GitHub](https://github.com/JeffWang987/DriveDreamer) | Scenario Generation |
 | [GAIA-1: A Generative World Model for Autonomous Driving](https://arxiv.org/abs/2309.17080) | 2023-09 | arXiv Wayve | - | Scenario Generation |
-| [Copilot4D: Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion](https://arxiv.org/abs/2311.01017) | 2023-11 | ICLR 2024 | - | Scenario Generation |
-| [MUVO: A Multimodal Generative World Model for Autonomous Driving with Geometric Representations](https://arxiv.org/abs/2311.11762) | 2023-11 | IV 2025 | - | Scenario Generation |
-| [Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving](https://arxiv.org/abs/2311.17918) | 2023-11 | CVPR 2024 | [GitHub](https://github.com/BraveGroup/Drive-WM) | Scenario Generation |
-| [Vista: A Generalizable Driving World Model with High Fidelity and Versatile Controllability](https://arxiv.org/abs/2405.17398) | 2024-03 | NeurIPS 2024 | - | Scenario Generation |
-| [MagicDrive: Street View Generation with Diverse 3D Geometry Control](https://arxiv.org/abs/2310.02601) | 2024-05 | arXiv | - | Scenario Generation |
+| [DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving](https://arxiv.org/abs/2309.09777) | 2023-09 | ECCV 2024 | [GitHub](https://github.com/JeffWang987/DriveDreamer) | Scenario Generation |
+| [ADriver-I: A General World Model for Autonomous Driving](https://arxiv.org/abs/2311.13549) | 2023-11 | arXiv | - | Scenario Generation |
+| [GAIA-2: A Controllable Multi-View Generative World Model for Autonomous Driving](https://arxiv.org/abs/2503.20523) | 2025-03 | arXiv Wayve | - | Scenario Generation |
 | [DriveDreamer-2: LLM-Enhanced World Models for Diverse Driving Video Generation](https://arxiv.org/abs/2403.06845) | 2024-05 | AAAI 2025 | [GitHub](https://github.com/f1yfisher/DriveDreamer2) | Scenario Generation |
-| [UniScene: Multi-Camera Unified Pre-training via 3D Scene Reconstruction for Autonomous Driving](https://arxiv.org/abs/2305.18829) | 2024-08 | RAL 2024 | - | Scenario Generation |
-| [WoVoGen: World Volume-aware Diffusion for Controllable Multi-camera Driving Scene Generation](https://arxiv.org/abs/2312.02934) | 2024-08 | ECCV 2024 | - | Scenario Generation |
-| [Panacea+: Panoramic and Controllable Video Generation for Autonomous Driving](https://arxiv.org/abs/2408.07605) | 2024-08 | CVPR 2024 | [GitHub](https://github.com/wenyuqing/panacea) | Scenario Generation |
-| [DriveArena: A Closed-loop Generative Simulation Platform for Autonomous Driving](https://arxiv.org/abs/2408.00415) | 2024-08 | arXiv | [GitHub](https://github.com/PJLab-ADG/DriveArena) | Scenario Generation |
-| [DriVerse: Navigation World Model for Driving Simulation via Multimodal Trajectory Prompting and Motion Alignment](https://arxiv.org/abs/2504.18576) | 2024-08 | arXiv | - | Scenario Generation |
 | [DriveDreamer4D: World Models Are Effective Data Machines for 4D Driving Scene Representation](https://arxiv.org/abs/2410.13571) | 2024-11 | CVPR 2025 | [GitHub](https://github.com/GigaAI-research/DriveDreamer4D) | Scenario Generation |
-| [ReconDreamer: Crafting World Models for Driving Scene Reconstruction via Online Restoration](https://arxiv.org/abs/2411.19548) | 2024-11 | arXiv | - | Scenario Generation |
-| [MagicDrive3D: Controllable 3D Generation for Any-View Rendering in Street Scenes](https://arxiv.org/abs/2405.14475) | 2024-11 | arXiv | [GitHub](https://gaoruiyuan.com/magicdrive3d/) | Scenario Generation |
-| [MagicDriveDiT: High-Resolution Long Video Generation for Autonomous Driving with Adaptive Control](https://arxiv.org/abs/2411.13807) | 2024-11 | arXiv | [GitHub](https://gaoruiyuan.com/magicdrive-v2/) | Scenario Generation |
-| [ACT-Bench: Towards Action Controllable World Models for Autonomous Driving](https://arxiv.org/abs/2412.05337) | 2024-12 | arXiv | - | Scenario Generation |
-| [GEM: A Generalizable Ego-Vision Multimodal World Model for Fine-Grained Ego-Motion, Object Dynamics, and Scene Composition Control](https://arxiv.org/abs/2412.11198) | 2024-12 | CVPR 2025 | [GitHub](https://github.com/vita-epfl/GEM) | Scenario Generation |
-| [SceneDiffuser++: City-Scale Traffic Simulation via a Generative World Model](https://arxiv.org/abs/2412.12129) | 2024-12 | CVPR 2025 | - | Scenario Generation |
 | [DrivingWorld: Constructing World Model for Autonomous Driving via Video GPT](https://arxiv.org/abs/2412.19505) | 2024-12 | arXiv | [GitHub](https://github.com/YvanYin/DrivingWorld) | Scenario Generation |
-| [Driving in the Occupancy World: Vision-Centric 4D Occupancy Forecasting and Planning via World Models for Autonomous Driving](https://arxiv.org/abs/2408.14197) | 2025-01 | AAAI 2025 | [GitHub](https://github.com/yuyang-cloud/Drive-OccWorld) | Scenario Generation |
+| [MagicDrive: Street View Generation with Diverse 3D Geometry Control](https://arxiv.org/abs/2310.02601) | 2024-05 | ICLR 2024 | [GitHub](https://github.com/cure-lab/MagicDrive) | Scenario Generation |
+| [MagicDrive3D: Controllable 3D Generation for Any-View Rendering in Street Scenes](https://arxiv.org/abs/2405.14475) | 2024-11 | arXiv | [GitHub](https://gaoruiyuan.com/magicdrive3d/) | Scenario Generation |
+| [MagicDrive-V2: High-Resolution Long Video Generation for Autonomous Driving with Adaptive Control](https://arxiv.org/abs/2411.13807) | 2024-11 | arXiv | [GitHub](https://gaoruiyuan.com/magicdrive-v2/) | Scenario Generation |
+| [WoVoGen: World Volume-aware Diffusion for Controllable Multi-camera Driving Scene Generation](https://arxiv.org/abs/2312.02934) | 2024-08 | ECCV 2024 | [GitHub](https://github.com/fudan-zvg/WoVoGen) | Scenario Generation |
+| [ReconDreamer: Crafting World Models for Driving Scene Reconstruction via Online Restoration](https://arxiv.org/abs/2411.19548) | 2024-11 | CVPR 2025 | [GitHub](https://github.com/GigaAI-research/ReconDreamer) | Scenario Generation |
 | [DualDiff+: Dual-Branch Diffusion for High-Fidelity Video Generation with Reward Guidance](https://arxiv.org/abs/2503.03689) | 2025-03 | ICRA 2025 | [GitHub](https://github.com/yangzhaojason/DualDiff) | Scenario Generation |
-| [Cosmos-Reason1: From Physical Common Sense To Embodied Reasoning](https://arxiv.org/abs/2503.15558) | 2025-03 | arXiv | [GitHub](https://github.com/nvidia-cosmos/cosmos-reason1) | Scenario Generation |
-| [GAIA-2: A Controllable Multi-View Generative World Model for Autonomous Driving](https://arxiv.org/abs/2503.20523) | 2025-03 | arXiv | - | Scenario Generation |
+| [Panacea+: Panoramic and Controllable Video Generation for Autonomous Driving](https://arxiv.org/abs/2408.07605) | 2024-08 | CVPR 2024 | [GitHub](https://github.com/wenyuqing/panacea) | Scenario Generation |
 | [Cosmos-Transfer1: Conditional World Generation with Adaptive Multimodal Control](https://arxiv.org/abs/2503.14492) | 2025-04 | arXiv | [GitHub](https://github.com/nvidia-cosmos/cosmos-transfer1) | Scenario Generation |
-| [OccSora: 4D Occupancy Generation Models as World Simulators for Autonomous Driving](https://arxiv.org/abs/2405.20337) | 2025-05 | arXiv | - | Scenario Generation |
+| [GeoDrive: Trajectory-Conditioned 3D World Model for Autonomous Driving](https://arxiv.org/abs/2505.22421) | 2025-02 | arXiv | - | Scenario Generation |
+| [DriveWorld: 4D Pre-trained Scene Understanding via World Models for Autonomous Driving](https://arxiv.org/abs/2405.04390) | 2024-05 | CVPR 2024 | - | Scenario Generation |
+| [OccSora: 4D Occupancy Generation Models as World Simulators for Autonomous Driving](https://arxiv.org/abs/2405.20337) | 2025-05 | arXiv | [GitHub](https://github.com/wzzheng/OccSora) | Scenario Generation |
+| [Driving in the Occupancy World: Vision-Centric 4D Occupancy Forecasting and Planning via World Models for Autonomous Driving](https://arxiv.org/abs/2408.14197) | 2025-01 | AAAI 2025 | [GitHub](https://github.com/yuyang-cloud/Drive-OccWorld) | Scenario Generation |
+| [DOME: Taming Diffusion Model into High-Fidelity Controllable Occupancy World Model](https://arxiv.org/abs/2410.10429) | 2024-10 | arXiv | [GitHub](https://github.com/gusongen/DOME) | Scenario Generation |
+| [RenderWorld: World Model with Self-Supervised 3D Label](https://arxiv.org/abs/2409.11356) | 2024-11 | arXiv | - | Scenario Generation |
+| [OccLLaMA: A Language-Driven 3D Occupancy Generation Framework](https://arxiv.org/abs/2409.03272) | 2024-12 | arXiv | - | Scenario Generation |
+| [BEVWorld: A Multimodal World Model for Autonomous Driving via Unified BEV Latent Space](https://arxiv.org/abs/2407.05679) | 2024-07 | arXiv | - | Scenario Generation |
+| [HoloDrive: Holistic View-Aware World Model for Autonomous Driving](https://arxiv.org/abs/2412.01407) | 2024-10 | arXiv | - | Scenario Generation |
+| [GEM: A Generalizable Ego-Vision Multimodal World Model for Fine-Grained Ego-Motion, Object Dynamics, and Scene Composition Control](https://openaccess.thecvf.com/content/CVPR2025/papers/Hassan_GEM_A_Generalizable_Ego-Vision_Multimodal_World_Model_for_Fine-Grained_Ego-Motion_CVPR_2025_paper.pdf) | 2024-12 | CVPR 2025 | [GitHub](https://github.com/vita-epfl/GEM) | Scenario Generation |
+| [DriveArena: A Closed-loop Generative Simulation Platform for Autonomous Driving](https://arxiv.org/abs/2408.00415) | 2024-08 | arXiv | [GitHub](https://github.com/PJLab-ADG/DriveArena) | Scenario Generation |
+| [ACT-Bench: Towards Action Controllable World Models for Autonomous Driving](https://arxiv.org/abs/2412.05337) | 2024-12 | arXiv | - | Scenario Generation |
+| [InfinityDrive: Towards Infinite-Resolution World Models for Autonomous Driving](https://arxiv.org/abs/2412.01522) | 2024-12 | arXiv | - | Scenario Generation |
+| [Epona: Autoregressive Diffusion World Model for Autonomous Driving](https://arxiv.org/abs/2506.24113) | 2025-06 | ICCV 2025 | [GitHub](https://github.com/Kevin-thu/Epona) | Scenario Generation |
+| [DrivePhysica: A Physics-Conditioned World Model for Autonomous Driving](https://arxiv.org/abs/2412.08410) | 2024-12 | arXiv | - | Scenario Generation |
+| [Cosmos-Drive: Multi-Modal World Model for Autonomous Driving](https://arxiv.org/abs/2506.09042) | 2025-03 | arXiv | [GitHub](https://github.com/nv-tlabs/Cosmos-Drive-Dreams) | Scenario Generation |
+
+</details>
+
+
+<details>
+<summary> WMs as Dynamic Models for Autonomous Driving </summary>
+
+| Paper | Date | Venue | Code | Application |
+|:------|:-----|:------|:-----|:------------|
+| [MILE: Model-based Imitation Learning for Urban Driving](https://arxiv.org/abs/2210.07729) | 2022-10 | NeurIPS 2022 | [GitHub](https://github.com/wayveai/mile) | Motion Planning |
+| [Cosmos-Reason1: From Physical Common Sense To Embodied Reasoning](https://arxiv.org/abs/2503.15558) | 2025-03 | arXiv | [GitHub](https://github.com/nvidia-cosmos/cosmos-reason1) | Reasoning |
+| [TrafficBots: Towards World Models for Autonomous Driving Simulation and Motion Prediction](https://arxiv.org/abs/2303.04116) | 2023-03 | ICRA 2023 | [GitHub](https://github.com/zhejz/TrafficBots) | Motion Prediction |
+| [Uniworld: Autonomous Driving Pre-training via World Models](https://arxiv.org/abs/2308.07234) | 2023-08 | ICCV 2023 | - | Pre-training |
+| [Copilot4D: Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion](https://arxiv.org/abs/2311.01017) | 2023-11 | ICLR 2024 | - | Motion Planning |
+| [MUVO: A Multimodal Generative World Model for Autonomous Driving with Geometric Representations](https://arxiv.org/abs/2311.11762) | 2023-11 | IV 2025 | - | Motion Planning |
+| [OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving](https://arxiv.org/abs/2311.16038) | 2023-11 | ECCV 2024 | [GitHub](https://github.com/wzzheng/OccWorld) | Motion Planning |
+| [ViDAR: Visual Point Cloud Forecasting for Autonomous Driving](https://arxiv.org/abs/2312.17655) | 2023-12 | CVPR 2024 | - | Motion Prediction |
+| [Think2Drive: Efficient Reinforcement Learning by Thinking in Latent World Model for Quasi-Realistic Autonomous Driving](https://arxiv.org/abs/2402.16720) | 2024-02 | arXiv | - | Motion Planning |
+| [LidarDM: Generative LiDAR Simulation in a Generated World](https://arxiv.org/abs/2404.02903) | 2024-04 | CVPR 2024 | - | Simulation |
+| [Enhancing End-to-End Autonomous Driving with Latent World Model](https://openreview.net/pdf?id=fd2u60ryG0) | 2025-02 | ICLR 2025 | [GitHub](https://github.com/BraveGroup/LAW) | Motion Planning |
+| [UnO: Unsupervised Occupancy Fields for Perception and Forecasting](https://arxiv.org/abs/2406.08691) | 2024-06 | CVPR 2024 | - | Motion Prediction |
+| [CarFormer: Self-Driving with Learned Object-Centric Representations](https://arxiv.org/abs/2407.15843) | 2024-07 | ECCV 2024 | [GitHub](https://github.com/Shamdan17/CarFormer) | Motion Planning |
+| [NeMo: Neural Occupancy Fields for Autonomous Driving](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02571.pdf) | 2024 | ECCV 2024 | - | Motion Prediction |
+| [Mitigating Covariate Shift in Imitation Learning via Offline Data With Partial Coverage](https://arxiv.org/abs/2106.03207) | 2021-10 | NeurIPS 2021 | [GitHub](https://github.com/jdchang1/milo) | Motion Planning |
+| [Imagine-2-Drive: High-Fidelity World Modeling for Autonomous Driving](https://arxiv.org/abs/2411.10171) | 2024-11 | IROS 2025 | [GitHub](https://imagine-2-drive.github.io/) | Motion Planning |
+| [Doe-1: Closed-Loop Autonomous Driving with Large World Model](https://arxiv.org/abs/2412.09627) | 2024-08 | arXiv | [GitHub](https://github.com/wzzheng/Doe) | Motion Planning |
+| [GaussianWorld: Gaussian World Model for Streaming 3D Occupancy Prediction](https://arxiv.org/abs/2412.10373) | 2024-12 | arXiv | [GitHub](https://github.com/zuosc19/GaussianWorld) | Motion Prediction |
+| [DFIT-OccWorld: Efficient Occupancy Forecasting via Differential Factorization and Interactive Transformer](https://arxiv.org/abs/2412.13772) | 2024-12 | arXiv | - | Motion Prediction |
+| [DrivingGPT: Unifying Driving World Modeling and Planning with Multi-modal Large Language Model](https://arxiv.org/abs/2412.18607) | 2024-12 | arXiv | - | Motion Planning |
+| [AdaWM: Adaptive World Model for Autonomous Driving](https://arxiv.org/abs/2501.13072) | 2025-01 | ICLR 2025 | - | Motion Planning |
+| [AD-L-JEPA: Autonomous Driving with L-JEPA](https://arxiv.org/abs/2501.04969) | 2025-01 | arXiv | [GitHub](https://github.com/HaoranZhuExplorer/AD-L-JEPA-Release) | Motion Prediction |
+| [HERMES: Harmonized Embodied Representation for Multi-modal Sensor Integration in Autonomous Driving](https://arxiv.org/abs/2501.14729) | 2025-01 | ICCV 2025 | [GitHub](https://github.com/LMD0311/HERMES) | Motion Planning |
+
+</details>
+
+
+<details>
+<summary> WMs as Reward Models for Autonomous Driving </summary>
+
+| Paper | Date | Venue | Code | Application |
+|:------|:-----|:------|:-----|:------------|
+| [SEM2: Enhance Sample Efficiency and Robustness of End-to-end Urban Autonomous Driving via Semantic Masked World Model](https://arxiv.org/abs/2403.16987) | 2024-05 | T-ITS | - | Reinforcement Learning |
+| [Iso-Dream: Isolating and Leveraging Noncontrollable Visual Dynamics in World Models](https://arxiv.org/abs/2205.13817) | 2022-05 | NeurIPS 2022 | [GitHub](https://github.com/panmt/Iso-Dream) | Reinforcement Learning |
+| [Vista: A Generalizable Driving World Model with High Fidelity and Versatile Controllability](https://arxiv.org/abs/2405.17398) | 2024-05 | NeurIPS 2024 | [GitHub](https://github.com/OpenDriveLab/Vista) | Reinforcement Learning |
+| [Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving](https://arxiv.org/abs/2311.17918) | 2023-11 | CVPR 2024 | [GitHub](https://github.com/BraveGroup/Drive-WM) | Motion Planning |
+| [WoTE: World-model-based End-to-end Autonomous Driving](https://arxiv.org/abs/2504.01941) | 2025-04 | ICCV 2025 | [GitHub](https://github.com/liyingyanUCAS/WoTE) | Motion Planning |
 
 </details>
 
