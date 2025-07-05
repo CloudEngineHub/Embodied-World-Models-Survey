@@ -532,13 +532,13 @@ To address the absence of a comprehensive grading system that integrates the dim
 | [MILE: Model-based Imitation Learning for Urban Driving](https://arxiv.org/abs/2210.07729) | 2022-10 | NeurIPS 2022 | [GitHub](https://github.com/wayveai/mile) | Motion Planning |
 | [Cosmos-Reason1: From Physical Common Sense To Embodied Reasoning](https://arxiv.org/abs/2503.15558) | 2025-03 | arXiv | [GitHub](https://github.com/nvidia-cosmos/cosmos-reason1) | Reasoning |
 | [TrafficBots: Towards World Models for Autonomous Driving Simulation and Motion Prediction](https://arxiv.org/abs/2303.04116) | 2023-03 | ICRA 2023 | [GitHub](https://github.com/zhejz/TrafficBots) | Motion Prediction |
-| [Uniworld: Autonomous Driving Pre-training via World Models](https://arxiv.org/abs/2308.07234) | 2023-08 | ICCV 2023 | - | Pre-training |
+| [Uniworld: Autonomous Driving Pre-training via World Models](https://arxiv.org/abs/2308.07234) | 2023-08 | arXiv | - | Pre-training |
 | [Copilot4D: Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion](https://arxiv.org/abs/2311.01017) | 2023-11 | ICLR 2024 | - | Motion Planning |
 | [MUVO: A Multimodal Generative World Model for Autonomous Driving with Geometric Representations](https://arxiv.org/abs/2311.11762) | 2023-11 | IV 2025 | - | Motion Planning |
 | [OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving](https://arxiv.org/abs/2311.16038) | 2023-11 | ECCV 2024 | [GitHub](https://github.com/wzzheng/OccWorld) | Motion Planning |
 | [ViDAR: Visual Point Cloud Forecasting for Autonomous Driving](https://arxiv.org/abs/2312.17655) | 2023-12 | CVPR 2024 | - | Motion Prediction |
-| [Think2Drive: Efficient Reinforcement Learning by Thinking in Latent World Model for Quasi-Realistic Autonomous Driving](https://arxiv.org/abs/2402.16720) | 2024-02 | arXiv | - | Motion Planning |
-| [LidarDM: Generative LiDAR Simulation in a Generated World](https://arxiv.org/abs/2404.02903) | 2024-04 | CVPR 2024 | - | Simulation |
+| [Think2Drive: Efficient Reinforcement Learning by Thinking in Latent World Model for Quasi-Realistic Autonomous Driving](https://arxiv.org/abs/2402.16720) | 2024-02 | ECCV 2024 | - | Motion Planning |
+| [LidarDM: Generative LiDAR Simulation in a Generated World](https://arxiv.org/abs/2404.02903) | 2024-04 | ICRA 2025 | - | Simulation |
 | [Enhancing End-to-End Autonomous Driving with Latent World Model](https://openreview.net/pdf?id=fd2u60ryG0) | 2025-02 | ICLR 2025 | [GitHub](https://github.com/BraveGroup/LAW) | Motion Planning |
 | [UnO: Unsupervised Occupancy Fields for Perception and Forecasting](https://arxiv.org/abs/2406.08691) | 2024-06 | CVPR 2024 | - | Motion Prediction |
 | [CarFormer: Self-Driving with Learned Object-Centric Representations](https://arxiv.org/abs/2407.15843) | 2024-07 | ECCV 2024 | [GitHub](https://github.com/Shamdan17/CarFormer) | Motion Planning |
