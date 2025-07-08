@@ -155,6 +155,7 @@ To address the absence of a comprehensive grading system that integrates the dim
 |---- | ------- | --------- |
 | [Humanoid Locomotion and Manipulation: Current Progress and Challenges in Control, Planning, and Learning](https://arxiv.org/abs/2501.02116) | 2025-04 | arXiv |
 | [A Comprehensive Review of Humanoid Robots](https://onlinelibrary.wiley.com/doi/full/10.1002/smb2.12008) | 2025-03 | SmartBot |
+| [Recent Progress in Legged Robots Locomotion Control](https://link.springer.com/article/10.1007/s43154-021-00059-0) | 2021-06 | Current Robotics Reports  |
 
 </details>
 
@@ -170,6 +171,25 @@ To address the absence of a comprehensive grading system that integrates the dim
 | [Dynamic walking with compliance on a Cassie bipedal robot](https://ieeexplore.ieee.org/document/8796090) | 2019-06 | European Control Conference|
 | [Dynamic walking on compliant and uneven terrain using DCM and passivity-based whole-body control](https://ieeexplore.ieee.org/document/9035053#:~:text=Abstract%3A%20This%20paper%20presents%20a%20complete%20trajectory%20generation,for%20humanoid%20robots%20over%20compliant%20and%20uneven%20terrain.) | 2019-10 | Humanoids 2019 |
 | [Fast Contact-Implicit Model Predictive Control](https://ieeexplore.ieee.org/document/10384795) | 2024-01 | T-RO |
+| [Efficient Anytime CLF Reactive Planning System for a Bipedal Robot on Undulating Terrain](https://ieeexplore.ieee.org/document/10008227) | 2023-01 | T-RO|
+| [Learning quadrupedal locomotion over challenging terrain](https://www.science.org/doi/10.1126/scirobotics.abc5986) | 2020-10 | Science Robotics| 
+| [Blind bipedal stair traversal via sim-to-real reinforcement learning](https://roboticsproceedings.org/rss17/p061.html) |2021-07 | Robotics: Science and Systems (RSS) |
+| [Learning vision-based bipedal locomotion for challenging terrain](https://ieeexplore.ieee.org/abstract/document/10611621) | 2024-05 | ICRA 2024|
+| [Learning humanoid locomotion with perceptive internal model](https://junfeng-long.github.io/PIM/) | 2024-11 | arXiv |
+| [Humanoid parkour learning](https://arxiv.org/abs/2406.10759) | 2024-06 | arXiv|
+| [Unified modeling and control of walking and running on the spring-loaded inverted pendulum](https://ieeexplore.ieee.org/document/7553483) | 2016-08 | T-RO |
+| [Capturability-based analysis and control of legged locomotion, part 2: Application to m2v2, a lower- body humanoid](https://dl.acm.org/doi/10.1177/0278364912452762) | 2012-09 | ijrr |
+| [Convex model predictive control of single rigid body model on so (3) for versatile dynamic legged motions](https://ieeexplore.ieee.org/document/9811926/media) | 2023-05 | ICRA 2023|
+| [Bipedal hopping: Reduced- order model embedding via optimization-based control](https://ieeexplore.ieee.org/document/8593547) | 2018-10 | IROS 2018|
+| [Vertical Jump of a Humanoid Robot With CoP-Guided Angular Momentum Control and Impact Absorption](https://ieeexplore.ieee.org/document/10124177) | 2023-05 | T-RO |
+| [CDM-MPC: An integrated dynamic planning and control framework for bipedal robots jumping](https://ieeexplore.ieee.org/abstract/document/10545606) | 2024-06 | RAL |
+| [Optimizing bipedal locomotion for the 100m dash with comparison to human running](https://ieeexplore.ieee.org/document/10160436) | 2023-05 | ICRA 2023|
+| [Reinforcement learning for versatile, dynamic, and robust bipedal locomotion control](https://journals.sagepub.com/doi/10.1177/02783649241285161) | 2024-10 | ijrr |
+| [Expressive Whole-Body Control for Humanoid Robots](https://roboticsconference.org/2024/program/papers/107/) | 2024-09 | RSS |
+| [Exbody2: Advanced expressive humanoid whole-body control](https://arxiv.org/abs/2412.13196) | 2024-12 | arXiv | 
+| [OMNIH2O: Universal and dexterous human- to-humanoid whole-body teleoperation and learning](https://omni.human2humanoid.com/) | 2024-06 | CoRL 2024|
+| [ASAP: Aligning simulation and real-world physics for learning agile humanoid whole-body skills](https://arxiv.org/abs/2502.01143) | 2025-02 | arXiv|
+
 </details>
 
 
