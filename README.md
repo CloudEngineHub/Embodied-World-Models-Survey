@@ -148,6 +148,29 @@ To address the absence of a comprehensive grading system that integrates the dim
 
 
 ### Robotic Locomotion
+<details>
+<summary> Related Survey </summary>
+
+|Paper| Date    | Venue     |
+|---- | ------- | --------- |
+| [Humanoid Locomotion and Manipulation: Current Progress and Challenges in Control, Planning, and Learning](https://arxiv.org/abs/2501.02116) | 2025-04 | arXiv |
+| [A Comprehensive Review of Humanoid Robots](https://onlinelibrary.wiley.com/doi/full/10.1002/smb2.12008) | 2025-03 | SmartBot |
+
+</details>
+
+<details>
+<summary> Legged Locomotion </summary>
+
+|Paper| Date    | Venue     |
+|---- | ------- | --------- |
+| [Compliant terrain adaptation for biped humanoids without measuring ground surface and contact force](https://ieeexplore.ieee.org/document/4671091#:~:text=This%20paper%20reports%20the%20applicability%20of%20our%20passivity-based,experimentally%20demonstrate%20its%20adaptation%20to%20unknown%20rough%20terrain.) | 2009-02 | T-RO |
+| [Online Learning of Uneven Terrain for Humanoid Bipedal Walking](https://cdn.aaai.org/ojs/7729/7729-13-11259-1-2-20201228.pdf#:~:text=We%20present%20a%20novel%20method%20to%20control%20a,the%20local%20terrain%20from%20proprioceptive%20and%20inertial%20sensors.) | 2010-07 | AAAI 2010 |
+| [Practical bipedal walking control on uneven terrain using surface learning and push recovery](https://ieeexplore.ieee.org/document/6095131) | 2011-09 | IROS 2011 |
+| [Biped walking stabilization based on linear inverted pendulum tracking](https://ieeexplore.ieee.org/document/5651082) | 2010-09 | IROS 2010 |
+| [Dynamic walking with compliance on a Cassie bipedal robot](https://ieeexplore.ieee.org/document/8796090) | 2019-06 | European Control Conference|
+| [Dynamic walking on compliant and uneven terrain using DCM and passivity-based whole-body control](https://ieeexplore.ieee.org/document/9035053#:~:text=Abstract%3A%20This%20paper%20presents%20a%20complete%20trajectory%20generation,for%20humanoid%20robots%20over%20compliant%20and%20uneven%20terrain.) | 2019-10 | Humanoids 2019 |
+| [Fast Contact-Implicit Model Predictive Control](https://ieeexplore.ieee.org/document/10384795) | 2024-01 | T-RO |
+</details>
 
 
 ### Robotic Manipulation
