@@ -11,7 +11,7 @@
 
 
 <p align="center">
-<img src="assets/0_Teaser.png" width="50%" height="auto"/>
+<img src="assets/0_Teaser.png" width="70%" height="auto"/>
 </p>
 
 ## 🤝 &nbsp; Citation
