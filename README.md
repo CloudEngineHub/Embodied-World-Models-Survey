@@ -563,7 +563,7 @@ To address the absence of a comprehensive grading system that integrates the dim
 | [Epona: Autoregressive Diffusion World Model for Autonomous Driving](https://arxiv.org/abs/2506.24113) | 2025-06 | ICCV 2025 | [GitHub](https://github.com/Kevin-thu/Epona) | Scenario Generation |
 | [DrivePhysica: A Physics-Conditioned World Model for Autonomous Driving](https://arxiv.org/abs/2412.08410) | 2024-12 | arXiv | - | Scenario Generation |
 | [Cosmos-Drive: Multi-Modal World Model for Autonomous Driving](https://arxiv.org/abs/2506.09042) | 2025-03 | arXiv | [GitHub](https://github.com/nv-tlabs/Cosmos-Drive-Dreams) | Scenario Generation |
-
+| [Genie 3: A new frontier for world models](https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/) | 2025-08 | website | [Talk](https://www.youtube.com/watch?v=ekgvWeHidJs) | Interactive Online Simulation |
 </details>
 
 
